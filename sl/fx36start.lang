@@ -3,31 +3,31 @@ Začetna stran Mozilla Firefoxa
 
 
 ;Firefox Start
-Firefox Start
+Firefox Start {OK}
 
 
 ;Firefox Logo
-Firefox Logo
+Firefox Logo {OK}
 
 
 ;Google Search
-Google Search
+Google iskanje
 
 
 ;Advanced search
-Advanced search
+Napredno iskanje
 
 
 ;Preferences
-Preferences
+Nastavitve
 
 
 ;You're not on the latest version of Firefox.
-You're not on the latest version of Firefox.
+Uporabljate različico Firefoxa, ki je zastarela.
 
 
 ;<a href="{0}">Upgrade today</a> to get the best of the Web!
-<a href="{0}">Upgrade today</a> to get the best of the Web!
+<a href="{0}">Posodobite še danes</a>, da vam bo splet polno na razpolago!
 
 
 ;About Mozilla
@@ -35,27 +35,27 @@ Kaj je Mozilla?
 
 
 ;Firefox Support
-Firefox Support
+Podpora za Firefox
 
 
 ;Important
-Important
+Važno
 
 
 ;Your Firefox is out of date!
-Your Firefox is out of date!
+Uporabljate zastarel Firefox!
 
 
 ;Please download the latest version to continue.
-Please download the latest version to continue.
+Prenesite si prosim najprej najnovejšo različico.
 
 
 ;Your browser is out of date.
-Your browser is out of date.
+Vaš brskalnik je zastarel.
 
 
 ;Upgrade today for the latest in speed and security.
-Upgrade today for the latest in speed and security.
+Posodobite še danes na najnovejše, kar se hitrosti in varnosti tiče. 
 
 
 ;Free Download
