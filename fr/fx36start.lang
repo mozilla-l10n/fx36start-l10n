@@ -3,31 +3,31 @@ Page de démarrage Mozilla Firefox
 
 
 ;Firefox Start
-Firefox Start
+Accueil de Firefox
 
 
 ;Firefox Logo
-Firefox Logo
+Logo de Firefox
 
 
 ;Google Search
-Google Search
+Recherche Google
 
 
 ;Advanced search
-Advanced search
+Recherche avancée
 
 
 ;Preferences
-Preferences
+Préférences
 
 
 ;You're not on the latest version of Firefox.
-You're not on the latest version of Firefox.
+Vous n'utilisez pas la dernière version de Firefox.
 
 
 ;<a href="{0}">Upgrade today</a> to get the best of the Web!
-<a href="{0}">Upgrade today</a> to get the best of the Web!
+<a href="{0}">Mettre à jour maintenant</a> pour obtenir le meilleur du Web&nbsp;!
 
 
 ;About Mozilla
@@ -35,27 +35,27 @@ You're not on the latest version of Firefox.
 
 
 ;Firefox Support
-Firefox Support
+Assistance pour Firefox
 
 
 ;Important
-Important
+Important {ok}
 
 
 ;Your Firefox is out of date!
-Your Firefox is out of date!
+Votre Firefox n'est plus à jour&nbsp;!
 
 
 ;Please download the latest version to continue.
-Please download the latest version to continue.
+Veuillez télécharger la dernière version pour continuer.
 
 
 ;Your browser is out of date.
-Your browser is out of date.
+Votre navigateur n'est plus à jour.
 
 
 ;Upgrade today for the latest in speed and security.
-Upgrade today for the latest in speed and security.
+Mettez à jour maintenant pour plus de vitesse et de sécurité.
 
 
 ;Free Download
@@ -63,6 +63,5 @@ Téléchargement gratuit
 
 
 ;No thanks, I'll risk it.
-No thanks, I'll risk it.
-
+Non merci, je prends le risque.
 
