@@ -7,27 +7,27 @@ Firefox Start
 
 
 ;Firefox Logo
-Firefox Logo
+Firefox-logo
 
 
 ;Google Search
-Google Search
+Google-søk
 
 
 ;Advanced search
-Advanced search
+Avansert søk
 
 
 ;Preferences
-Preferences
+Innstillinger
 
 
 ;You're not on the latest version of Firefox.
-You're not on the latest version of Firefox.
+Du bruker ikke den nyeste versjonen av Firefox.
 
 
 ;<a href="{0}">Upgrade today</a> to get the best of the Web!
-<a href="{0}">Upgrade today</a> to get the best of the Web!
+<a href="{0}">Oppgrader nå</a> for å få det beste ut av nettet!
 
 
 ;About Mozilla
@@ -39,23 +39,23 @@ Firefox Support
 
 
 ;Important
-Important
+Viktig
 
 
 ;Your Firefox is out of date!
-Your Firefox is out of date!
+Din versjon av Firefox er utdatert!
 
 
 ;Please download the latest version to continue.
-Please download the latest version to continue.
+Last ned den nyeste versjonen for å fortsette.
 
 
 ;Your browser is out of date.
-Your browser is out of date.
+Nettleseren din er utdatert.
 
 
 ;Upgrade today for the latest in speed and security.
-Upgrade today for the latest in speed and security.
+Oppgrader i dag for det nyeste i hastighet og sikkerhet.
 
 
 ;Free Download
@@ -63,6 +63,6 @@ Gratis nedlasting
 
 
 ;No thanks, I'll risk it.
-No thanks, I'll risk it.
+Nei takk, jeg tar risikoen.
 
 
