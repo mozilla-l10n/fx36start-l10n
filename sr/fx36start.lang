@@ -1,9 +1,9 @@
-;Mozilla Firefox Start Page
+﻿;Mozilla Firefox Start Page
 Почетна страна Мозилиног фајерфокса
 
 
 ;Firefox Start
-Firefox Start
+Фајерфоксова почетна страна
 
 
 ;Firefox Logo
@@ -11,23 +11,23 @@ Firefox Logo
 
 
 ;Google Search
-Google Search
+Гуглова претрага
 
 
 ;Advanced search
-Advanced search
+Напредна претрага
 
 
 ;Preferences
-Preferences
+Подешавања
 
 
 ;You're not on the latest version of Firefox.
-You're not on the latest version of Firefox.
+Нисте на најновијој верзији фајерфокса.
 
 
 ;<a href="{0}">Upgrade today</a> to get the best of the Web!
-<a href="{0}">Upgrade today</a> to get the best of the Web!
+<a href="{0}">Надоградите данас</a> да би сте добили најбоље од Интернета!
 
 
 ;About Mozilla
@@ -35,27 +35,27 @@ O Мозили
 
 
 ;Firefox Support
-Firefox Support
+Фајерфокс подршка - база знања
 
 
 ;Important
-Important
+Важно!
 
 
 ;Your Firefox is out of date!
-Your Firefox is out of date!
+Ваш фајерфокс је застарео!
 
 
 ;Please download the latest version to continue.
-Please download the latest version to continue.
+Молимо Вас преузмите најновију верзију да би сте наставили.
 
 
 ;Your browser is out of date.
-Your browser is out of date.
+Ваш Интернет прегледач је застарео.
 
 
 ;Upgrade today for the latest in speed and security.
-Upgrade today for the latest in speed and security.
+Надоградите данас ради брзине и сигурности.
 
 
 ;Free Download
@@ -63,6 +63,4 @@ Upgrade today for the latest in speed and security.
 
 
 ;No thanks, I'll risk it.
-No thanks, I'll risk it.
-
-
+Не хвала, ризиковаћу.
