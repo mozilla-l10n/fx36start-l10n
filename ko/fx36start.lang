@@ -3,31 +3,31 @@ Mozilla Firefox 시작 페이지
 
 
 ;Firefox Start
-Firefox Start
+Firefox 시작하기
 
 
 ;Firefox Logo
-Firefox Logo
+Firefox 로고
 
 
 ;Google Search
-Google Search
+Google 검색
 
 
 ;Advanced search
-Advanced search
+고급 검색
 
 
 ;Preferences
-Preferences
+환경 설정
 
 
 ;You're not on the latest version of Firefox.
-You're not on the latest version of Firefox.
+Firefox 최신 버전을 사용하고 있지 않습니다.
 
 
 ;<a href="{0}">Upgrade today</a> to get the best of the Web!
-<a href="{0}">Upgrade today</a> to get the best of the Web!
+웹을 최고로 즐기기 위해 오늘 <a href="{0}">바로 업그레이드</a>해 주십시오!
 
 
 ;About Mozilla
@@ -35,27 +35,27 @@ Mozilla 소개
 
 
 ;Firefox Support
-Firefox Support
+Firefox 고객지원
 
 
 ;Important
-Important
+중요
 
 
 ;Your Firefox is out of date!
-Your Firefox is out of date!
+Firefox 업그레이드가 필요합니다!
 
 
 ;Please download the latest version to continue.
-Please download the latest version to continue.
+최신 버전을 다운로드하려면 계속하십시오.
 
 
 ;Your browser is out of date.
-Your browser is out of date.
+웹 브라우저 업그레이드가 필요합니다.
 
 
 ;Upgrade today for the latest in speed and security.
-Upgrade today for the latest in speed and security.
+보안 및 속도 향상을 위해 지금 업그레이드하십시오.
 
 
 ;Free Download
@@ -63,6 +63,4 @@ Upgrade today for the latest in speed and security.
 
 
 ;No thanks, I'll risk it.
-No thanks, I'll risk it.
-
-
+계속 사용하기
