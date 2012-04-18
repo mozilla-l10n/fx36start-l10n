@@ -3,31 +3,31 @@ Mozilla Firefoxin aloitussivu
 
 
 ;Firefox Start
-Firefox Start
+Firefoxin aloitussivu
 
 
 ;Firefox Logo
-Firefox Logo
+Firefoxin logo
 
 
 ;Google Search
-Google Search
+Google-haku
 
 
 ;Advanced search
-Advanced search
+Tarkennettu haku
 
 
 ;Preferences
-Preferences
+Asetukset
 
 
 ;You're not on the latest version of Firefox.
-You're not on the latest version of Firefox.
+Et käytä uusinta versiota Firefoxista.
 
 
 ;<a href="{0}">Upgrade today</a> to get the best of the Web!
-<a href="{0}">Upgrade today</a> to get the best of the Web!
+<a href="{0}">Päivitä tänään</a> kokeaksesi webin parhaimmillaan!
 
 
 ;About Mozilla
@@ -35,27 +35,27 @@ Tietoja Mozillasta
 
 
 ;Firefox Support
-Firefox Support
+Firefoxin tukisivustu
 
 
 ;Important
-Important
+Tärkeää
 
 
 ;Your Firefox is out of date!
-Your Firefox is out of date!
+Firefoxisi on vanhentunut!
 
 
 ;Please download the latest version to continue.
-Please download the latest version to continue.
+Lataa viimeisin versio jatkaaksesi.
 
 
 ;Your browser is out of date.
-Your browser is out of date.
+Selaimesi on vanhentunut.
 
 
 ;Upgrade today for the latest in speed and security.
-Upgrade today for the latest in speed and security.
+Päivitä tänään viimeisimpään nopeudessa ja turvallisuudessa.
 
 
 ;Free Download
@@ -63,6 +63,7 @@ Lataa ilmaiseksi
 
 
 ;No thanks, I'll risk it.
-No thanks, I'll risk it.
+Ei kiitos, luotan onneeni.
+
 
 
