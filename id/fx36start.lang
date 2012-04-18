@@ -1,4 +1,4 @@
-;Mozilla Firefox Start Page
+﻿;Mozilla Firefox Start Page
 Halaman Awal Mozilla Firefox
 
 
@@ -7,27 +7,27 @@ Firefox Start
 
 
 ;Firefox Logo
-Firefox Logo
+Logo Firefox
 
 
 ;Google Search
-Google Search
+Google Penelusuran
 
 
 ;Advanced search
-Advanced search
+Penelusuran lanjutan
 
 
 ;Preferences
-Preferences
+Preferensi
 
 
 ;You're not on the latest version of Firefox.
-You're not on the latest version of Firefox.
+Versi Firefox Anda bukan yang terbaru.
 
 
 ;<a href="{0}">Upgrade today</a> to get the best of the Web!
-<a href="{0}">Upgrade today</a> to get the best of the Web!
+<a href="{0}">Tingkatkan versinya sekarang</a> untuk mendapatkan yang terbaik dari dunia Web!
 
 
 ;About Mozilla
@@ -35,27 +35,27 @@ Tentang Mozilla
 
 
 ;Firefox Support
-Firefox Support
+Layanan Dukungan Firefox
 
 
 ;Important
-Important
+Penting
 
 
 ;Your Firefox is out of date!
-Your Firefox is out of date!
+Versi Firefox Anda sudah terlalu lawas!
 
 
 ;Please download the latest version to continue.
-Please download the latest version to continue.
+Mohon unduh versi terbaru untuk melanjutkan.
 
 
 ;Your browser is out of date.
-Your browser is out of date.
+Versi peramban Anda sudah terlalu lawas.
 
 
 ;Upgrade today for the latest in speed and security.
-Upgrade today for the latest in speed and security.
+Tingkatkan versinya sekarang untuk mendapatkan yang lebih cepat dan lebih aman.
 
 
 ;Free Download
@@ -63,6 +63,4 @@ Unduh Gratis
 
 
 ;No thanks, I'll risk it.
-No thanks, I'll risk it.
-
-
+Terima kasih, saya tanggung sendiri akibatnya.
