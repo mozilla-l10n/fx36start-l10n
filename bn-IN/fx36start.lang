@@ -1,3 +1,7 @@
+## NOTE: test server at http://start.allizom.org/en-US/
+## NOTE: to properly test this page you need User Agent Switcher add-on
+
+
 ;Mozilla Firefox Start Page
 Mozilla Firefox-র প্রারম্ভিক পৃষ্ঠা
 
@@ -66,9 +70,30 @@ Firefox সহায়তা ব্যবস্থা
 না ধন্যবাদ, আমি ঝুঁকি নিতে প্রস্তুত।
 
 
+;A message about your browser
+A message about your browser
 
 
-;Privacy Policy
-গোপনীয়তা সংক্রান্ত নিয়মাবলী
+# Displayed to users with Firefox 3
+;You're using Firefox 3, which was amazing in 2010, but why not try a brand new version of Firefox instead?
+You're using Firefox 3, which was amazing in 2010, but why not try a brand new version of Firefox instead?
+
+
+# Displayed to users with Firefox 4
+;You're using Firefox 4, which was amazing in 2011, but why not try a brand new version of Firefox instead?
+You're using Firefox 4, which was amazing in 2011, but why not try a brand new version of Firefox instead?
+
+
+;It's better, more secure and only takes a minute to update.
+It's better, more secure and only takes a minute to update.
+
+
+# Displayed to users with an obsolete version of Firefox
+;Looks like you’re using an older version of Firefox. Update to stay fast and safe.
+Looks like you’re using an older version of Firefox. Update to stay fast and safe.
+
+
+;Update Firefox Now
+Update Firefox Now
 
 
