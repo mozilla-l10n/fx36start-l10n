@@ -11,7 +11,7 @@
 
 
 ;Firefox Logo
-Лого Firefox
+Логотип Firefox
 
 
 ;Google Search
@@ -31,7 +31,7 @@
 
 
 ;<a href="{0}">Upgrade today</a> to get the best of the Web!
-<a href="{0}">Оновіться сьогодні</a> та беріть від мережі найкраще!
+<a href="{0}">Оновіться сьогодні</a>, щоб отримати від мережі найкраще!
 
 
 ;About Mozilla
@@ -51,7 +51,7 @@
 
 
 ;Please download the latest version to continue.
-Будь ласка, завантажте найостаннішу версію Firefox.
+Щоб продовжити, завантажте будь ласка останню версію.
 
 
 ;Your browser is out of date.
@@ -63,7 +63,7 @@
 
 
 ;Free Download
-Забрати безкоштовно
+Завантажити безплатно
 
 
 ;No thanks, I'll risk it.
@@ -71,29 +71,29 @@
 
 
 ;A message about your browser
-A message about your browser
+Повідомлення про ваш браузер
 
 
 # Displayed to users with Firefox 3
 ;You're using Firefox 3, which was amazing in 2010, but why not try a brand new version of Firefox instead?
-You're using Firefox 3, which was amazing in 2010, but why not try a brand new version of Firefox instead?
+Ви використовуєте Firefox 3, який був неперевершеним у 2010 році, але чому б не спробувати натомість найновішу, сучасну версію Firefox?
 
 
 # Displayed to users with Firefox 4
 ;You're using Firefox 4, which was amazing in 2011, but why not try a brand new version of Firefox instead?
-You're using Firefox 4, which was amazing in 2011, but why not try a brand new version of Firefox instead?
+Ви використовуєте Firefox 4, який був неперевершеним у 2011 році, але чому б не спробувати натомість найновішу, сучасну версію Firefox?
 
 
 ;It's better, more secure and only takes a minute to update.
-It's better, more secure and only takes a minute to update.
+Вона краща, більш захищена, і оновлення триває лише хвилину.
 
 
 # Displayed to users with an obsolete version of Firefox
 ;Looks like you’re using an older version of Firefox. Update to stay fast and safe.
-Looks like you’re using an older version of Firefox. Update to stay fast and safe.
+Схоже, що ви використовуєте застарілу версію Firefox. Оновіться заради швидкості та безпеки.
 
 
 ;Update Firefox Now
-Update Firefox Now
+Оновити Firefox зараз
 
 
