@@ -3,19 +3,19 @@
 
 
 ;Mozilla Firefox Start Page
-Почетна страна Мозилиног фајерфокса
+Почетна страна Mozilla Firefox-a
 
 
 ;Firefox Start
-Фајерфоксова почетна страна
+Firefox почетна
 
 
 ;Firefox Logo
-Firefox Logo {ok}
+Firefox лого
 
 
 ;Google Search
-Гуглова претрага
+Google претрага
 
 
 ;Advanced search
@@ -27,35 +27,35 @@ Firefox Logo {ok}
 
 
 ;You're not on the latest version of Firefox.
-Нисте на најновијој верзији фајерфокса.
+Нисте на најновијој верзији Firefox-а.
 
 
 ;<a href="{0}">Upgrade today</a> to get the best of the Web!
-<a href="{0}">Надоградите данас</a> да би сте добили најбоље од Интернета!
+<a href="{0}">Надоградите данас</a> да бисте добили најбоље од интернета!
 
 
 ;About Mozilla
-O Мозили
+O Mozilla-и
 
 
 ;Firefox Support
-Фајерфокс подршка - база знања
+Firefox подршка
 
 
 ;Important
-Важно!
+Важно
 
 
 ;Your Firefox is out of date!
-Ваш фајерфокс је застарео!
+Ваш Firefox је застарео!
 
 
 ;Please download the latest version to continue.
-Молимо Вас преузмите најновију верзију да би сте наставили.
+Молимо Вас преузмите најновију верзију да бисте наставили.
 
 
 ;Your browser is out of date.
-Ваш Интернет прегледач је застарео.
+Ваш интернет прегледач је застарео.
 
 
 ;Upgrade today for the latest in speed and security.
@@ -63,7 +63,7 @@ O Мозили
 
 
 ;Free Download
-Бесплатна набавка
+Бесплатно преузимање
 
 
 ;No thanks, I'll risk it.
@@ -71,29 +71,29 @@ O Мозили
 
 
 ;A message about your browser
-A message about your browser
+Порука о Вашем веб прегледачу
 
 
 # Displayed to users with Firefox 3
 ;You're using Firefox 3, which was amazing in 2010, but why not try a brand new version of Firefox instead?
-You're using Firefox 3, which was amazing in 2010, but why not try a brand new version of Firefox instead?
+Користите Firefox 3, који је био моћан 2010. год, али зашто не бисте пробали најновију верзију Firefox-а?
 
 
 # Displayed to users with Firefox 4
 ;You're using Firefox 4, which was amazing in 2011, but why not try a brand new version of Firefox instead?
-You're using Firefox 4, which was amazing in 2011, but why not try a brand new version of Firefox instead?
+Користите Firefox 4, који је био моћан 2011. год, али зашто не бисте пробали најновију верзију Firefox-а?
 
 
 ;It's better, more secure and only takes a minute to update.
-It's better, more secure and only takes a minute to update.
+Бољи је, пружа више сигурности и треба само минут да се надогради.
 
 
 # Displayed to users with an obsolete version of Firefox
 ;Looks like you’re using an older version of Firefox. Update to stay fast and safe.
-Looks like you’re using an older version of Firefox. Update to stay fast and safe.
+Изгледа да користите старију верзију Firefox-а. Ажурирајте га да бисте остали брзи и безбедни.
 
 
 ;Update Firefox Now
-Update Firefox Now
+Ажурирај Firefox сада
 
 
