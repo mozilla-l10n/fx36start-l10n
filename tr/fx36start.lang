@@ -31,7 +31,7 @@ Firefox'un son sürümünü kullanmıyorsunuz.
 
 
 ;<a href="{0}">Upgrade today</a> to get the best of the Web!
-Web'den en iyi şekilde yararlanmak için <a href="{0}">şimdi yükseltin</a>!
+Web’den en iyi şekilde yararlanmak için <a href="{0}">şimdi yükseltin</a>!
 
 
 ;About Mozilla
@@ -47,7 +47,7 @@ Firefox Desteği
 
 
 ;Your Firefox is out of date!
-Firefox'unuz fazlasıyla eski!
+Firefox’unuz fazlasıyla eski!
 
 
 ;Please download the latest version to continue.
@@ -63,7 +63,7 @@ Yeni hız ve güvenlik güncellemeleri için hemen yükseltin.
 
 
 ;Free Download
-Ücretsiz İndirin
+Ücretsiz indirin
 
 
 ;No thanks, I'll risk it.
@@ -71,29 +71,29 @@ Güncellemeden devam edeceğim, risklerin farkındayım.
 
 
 ;A message about your browser
-A message about your browser
+Tarayıcınız hakkında bir mesaj
 
 
 # Displayed to users with Firefox 3
 ;You're using Firefox 3, which was amazing in 2010, but why not try a brand new version of Firefox instead?
-You're using Firefox 3, which was amazing in 2010, but why not try a brand new version of Firefox instead?
+Firefox 3 kullanıyorsunuz. 2010’da harikaydı ama artık Firefox’un yepyeni sürümünü denemenin vakti gelmedi mi?
 
 
 # Displayed to users with Firefox 4
 ;You're using Firefox 4, which was amazing in 2011, but why not try a brand new version of Firefox instead?
-You're using Firefox 4, which was amazing in 2011, but why not try a brand new version of Firefox instead?
+Firefox 4 kullanıyorsunuz. 2011’de harikaydı ama artık Firefox’un yepyeni sürümünü denemenin vakti gelmedi mi?
 
 
 ;It's better, more secure and only takes a minute to update.
-It's better, more secure and only takes a minute to update.
+Daha iyi, daha güvenli ve güncellemeniz sadece birkaç dakika sürecek.
 
 
 # Displayed to users with an obsolete version of Firefox
 ;Looks like you’re using an older version of Firefox. Update to stay fast and safe.
-Looks like you’re using an older version of Firefox. Update to stay fast and safe.
+Firefox’un eski bir sürümünü kullanıyorsunuz. Daha hızlı ve daha güvenli bir Firefox için güncelleme yapın.
 
 
 ;Update Firefox Now
-Update Firefox Now
+Firefox’u şimdi güncelle
 
 
