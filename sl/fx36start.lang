@@ -7,11 +7,11 @@ Začetna stran Mozilla Firefoxa
 
 
 ;Firefox Start
-Firefox Start {OK}
+Firefox Start {ok}
 
 
 ;Firefox Logo
-Firefox Logo {OK}
+Firefox Logo {ok}
 
 
 ;Google Search
@@ -71,29 +71,29 @@ Ne, hvala, bom tvegal.
 
 
 ;A message about your browser
-A message about your browser
+Sporočilo o vašem brskalniku
 
 
 # Displayed to users with Firefox 3
 ;You're using Firefox 3, which was amazing in 2010, but why not try a brand new version of Firefox instead?
-You're using Firefox 3, which was amazing in 2010, but why not try a brand new version of Firefox instead?
+Uporabljate Firefox 3, ki je bil odličen leta 2010. A ne bi raje poskusili povsem novega Firefoxa?
 
 
 # Displayed to users with Firefox 4
 ;You're using Firefox 4, which was amazing in 2011, but why not try a brand new version of Firefox instead?
-You're using Firefox 4, which was amazing in 2011, but why not try a brand new version of Firefox instead?
+Uporabljate Firefox 4, ki je bil odličen leta 2010. A ne bi raje poskusili povsem novega Firefoxa?
 
 
 ;It's better, more secure and only takes a minute to update.
-It's better, more secure and only takes a minute to update.
+Je boljši in bolj varen, posodobitev pa vam bo vzela samo minuto.
 
 
 # Displayed to users with an obsolete version of Firefox
 ;Looks like you’re using an older version of Firefox. Update to stay fast and safe.
-Looks like you’re using an older version of Firefox. Update to stay fast and safe.
+Uporabljate starejšo različico Firefoxa. Posodobite ga za več hitrosti in varnosti.
 
 
 ;Update Firefox Now
-Update Firefox Now
+Posodobi Firefox zdaj
 
 
