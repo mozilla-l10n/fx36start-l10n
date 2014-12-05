@@ -15,11 +15,11 @@
 
 
 ;Google Search
-بحث غوغل
+بحث Google
 
 
 ;Advanced search
-بحث متقدم
+بحث مُتقدّم
 
 
 ;Preferences
@@ -27,7 +27,7 @@
 
 
 ;You're not on the latest version of Firefox.
-أنت لا تستخدم آخر إصدار من فَيَرفُكس.
+أنت لا تستخدم أحدث إصدار من فَيَرفُكس.
 
 
 ;<a href="{0}">Upgrade today</a> to get the best of the Web!
@@ -43,15 +43,15 @@
 
 
 ;Important
-مهم
+مُهم
 
 
 ;Your Firefox is out of date!
-فَيَرفُكس يحتاج إلى تحديث!
+فَيَرفُكس يحتاج إلى تحديث
 
 
 ;Please download the latest version to continue.
-يُرجى تنزيل آخر إصدار للمتابعة.
+يُرجى تنزيل آخر إصدار للمُتابعة.
 
 
 ;Your browser is out of date.
@@ -59,7 +59,7 @@
 
 
 ;Upgrade today for the latest in speed and security.
-قُم بالترقية اليوم للحصول على سرعة أكبر وأمان أفضل.
+قُم بالترقية اليوم للحصول على سرعة أفضل ودرجة أمان أعلى.
 
 
 ;Free Download
@@ -71,29 +71,29 @@
 
 
 ;A message about your browser
-A message about your browser
+رسالة حول مُتصفّحك
 
 
 # Displayed to users with Firefox 3
 ;You're using Firefox 3, which was amazing in 2010, but why not try a brand new version of Firefox instead?
-You're using Firefox 3, which was amazing in 2010, but why not try a brand new version of Firefox instead?
+أنت تستعمل الإصدار الثالث من فَيَرفُكس والذي كان رائعًا سنة 2010، ألا ترغب في تجربة إصدار أحدث من المُتصفّح ؟
 
 
 # Displayed to users with Firefox 4
 ;You're using Firefox 4, which was amazing in 2011, but why not try a brand new version of Firefox instead?
-You're using Firefox 4, which was amazing in 2011, but why not try a brand new version of Firefox instead?
+أنت تستعمل الإصدار الثالث من فَيَرفُكس والذي كان رائعًا سنة 2011، ألا ترغب في تجربة إصدار أحدث من المُتصفّح ؟
 
 
 ;It's better, more secure and only takes a minute to update.
-It's better, more secure and only takes a minute to update.
+يُعتبر أحدث إصدار من المُتصفّح أفضل بكثير وأكثر أمانًا، كما أنه لن يحتاج سوى إلى دقائق معدودات ليتم تحديثه.
 
 
 # Displayed to users with an obsolete version of Firefox
 ;Looks like you’re using an older version of Firefox. Update to stay fast and safe.
-Looks like you’re using an older version of Firefox. Update to stay fast and safe.
+يبدو بأنك تستخدم إصدارًا من فَيَرفُكس عفا عنه الزّمن. يُرجى التحديث للحصول على سرعة أفضل ودرجة أمان أعلى.
 
 
 ;Update Firefox Now
-Update Firefox Now
+قم بتحديث فَيَرفُكس الآن
 
 
