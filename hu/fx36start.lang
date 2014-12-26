@@ -1,4 +1,4 @@
-## NOTE: test server at http://start.allizom.org/en-US/
+﻿## NOTE: test server at http://start.allizom.org/en-US/
 ## NOTE: to properly test this page you need User Agent Switcher add-on
 
 
@@ -71,29 +71,29 @@ Nem, vállalom a kockázatot.
 
 
 ;A message about your browser
-A message about your browser
+Figyelmeztetés
 
 
 # Displayed to users with Firefox 3
 ;You're using Firefox 3, which was amazing in 2010, but why not try a brand new version of Firefox instead?
-You're using Firefox 3, which was amazing in 2010, but why not try a brand new version of Firefox instead?
+Firefox 3-as verziót használ, amely nagyszerű volt 2010-ben, de miért nem próbálja ki a legújabb verziót?
 
 
 # Displayed to users with Firefox 4
 ;You're using Firefox 4, which was amazing in 2011, but why not try a brand new version of Firefox instead?
-You're using Firefox 4, which was amazing in 2011, but why not try a brand new version of Firefox instead?
+Firefox 4-es verziót használ, amely nagyszerű volt 2011-ben, de miért nem próbálja ki a legújabb verziót?
 
 
 ;It's better, more secure and only takes a minute to update.
-It's better, more secure and only takes a minute to update.
+A legfrissebb verzió jobb, biztonságosabb és a frissítés csak néhány percet vesz igénybe.
 
 
 # Displayed to users with an obsolete version of Firefox
 ;Looks like you’re using an older version of Firefox. Update to stay fast and safe.
-Looks like you’re using an older version of Firefox. Update to stay fast and safe.
+Úgy néz ki, hogy egy régi Firefox verziót használ. Frissítsen, hogy  a böngészés gyors és biztonságos legyen.
 
 
 ;Update Firefox Now
-Update Firefox Now
+Firefox frissítése
 
 
