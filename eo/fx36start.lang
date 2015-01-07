@@ -27,7 +27,7 @@ Preferoj
 
 
 ;You're not on the latest version of Firefox.
-Vi ne rulas la lastan version de Firefox.
+Vi ne uzas la lastan version de Firefox.
 
 
 ;<a href="{0}">Upgrade today</a> to get the best of the Web!
@@ -71,29 +71,30 @@ Ne, dankon.  Mi riskos.
 
 
 ;A message about your browser
-A message about your browser
+Mesaĝo pri via retesplorilo
 
 
 # Displayed to users with Firefox 3
 ;You're using Firefox 3, which was amazing in 2010, but why not try a brand new version of Firefox instead?
-You're using Firefox 3, which was amazing in 2010, but why not try a brand new version of Firefox instead?
+Vi nun uzas Firefox 3, kiu estis rava en 2010, kial ne provi tute novan version de Firefox anstataŭ?
 
 
 # Displayed to users with Firefox 4
 ;You're using Firefox 4, which was amazing in 2011, but why not try a brand new version of Firefox instead?
-You're using Firefox 4, which was amazing in 2011, but why not try a brand new version of Firefox instead?
+Vi nun uzas Firefox 4, kiu estis rava en 2011, kial ne provi tute novan version de Firefox anstataŭ?
+
 
 
 ;It's better, more secure and only takes a minute to update.
-It's better, more secure and only takes a minute to update.
+Ĝi estas pli bona, pli sekura kaj oni povas ĝisdatigi ĝin en minuto.
 
 
 # Displayed to users with an obsolete version of Firefox
 ;Looks like you’re using an older version of Firefox. Update to stay fast and safe.
-Looks like you’re using an older version of Firefox. Update to stay fast and safe.
+Ŝajne vi uzas malnovan version de Firefox. Ĝisdatigu por plu esti rapida kaj sekura.
 
 
 ;Update Firefox Now
-Update Firefox Now
+Ĝisdatigi Firefox nun
 
 
