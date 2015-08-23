@@ -11,11 +11,11 @@ Firefox la început
 
 
 ;Firefox Logo
-Sigla Firefox
+Logoul Firefox
 
 
 ;Google Search
-Caută cu Google
+Căutare Google
 
 
 ;Advanced search
@@ -27,11 +27,11 @@ Preferințe
 
 
 ;You're not on the latest version of Firefox.
-Nu folosiți ultima versiune de Firefox.
+Nu folosești ultima versiune de Firefox.
 
 
 ;<a href="{0}">Upgrade today</a> to get the best of the Web!
-<a href="{0}">Actualizați acum</a> pentru a nu pierde ce e mai bun pe web!
+<a href="{0}">Actualizează acum</a> pentru a nu pierde ce e mai bun pe web!
 
 
 ;About Mozilla
@@ -39,7 +39,7 @@ Despre Mozilla
 
 
 ;Firefox Support
-Asistență pentru Firefox
+Suport Firefox
 
 
 ;Important
@@ -47,19 +47,19 @@ Important {ok}
 
 
 ;Your Firefox is out of date!
-Versiunea curentă Firefox este veche!
+Versiunea ta de Firefox este învechită!
 
 
 ;Please download the latest version to continue.
-Vă rugăm să descărcați ultima versiune pentru a continua.
+Te rugăm să descarci ultima versiune pentru a continua.
 
 
 ;Your browser is out of date.
-Navigatorul este prea vechi.
+Browserul tău este învechit.
 
 
 ;Upgrade today for the latest in speed and security.
-Actualizați acum pentru a beneficia de ultimele noutăți în materie de viteză și securitate.
+Actualizează acum pentru a beneficia de ultimele noutăți în materie de viteză și securitate.
 
 
 ;Free Download
@@ -71,29 +71,29 @@ Nu mulțumesc, voi risca.
 
 
 ;A message about your browser
-Un mesaj despre navigator
+Un mesaj despre browser
 
 
 # Displayed to users with Firefox 3
 ;You're using Firefox 3, which was amazing in 2010, but why not try a brand new version of Firefox instead?
-Folosiți Firefox 3, un navigator fantastic pentru anul 2010, nu vreți să încercați un Firefox mai recent?
+Folosești Firefox 3 care a fost fantastic în anul 2010, dar de ce să nu încerci o versiune mai nouă de Firefox în schimb?
 
 
 # Displayed to users with Firefox 4
 ;You're using Firefox 4, which was amazing in 2011, but why not try a brand new version of Firefox instead?
-Folosiți Firefox 4, un navigator fantastic pentru anul 2011, nu vreți să încercați un Firefox mai recent?
+Folosești Firefox 4 care a fost fantastic în anul 2010, dar de ce să nu încerci o versiune mai nouă de Firefox în schimb?
 
 
 ;It's better, more secure and only takes a minute to update.
-Mai bun, mai sigur și durează doar un minut pentru actualizare.
+Este mai bun, mai sigur și ia doar un minut pentru actualizare.
 
 
 # Displayed to users with an obsolete version of Firefox
 ;Looks like you’re using an older version of Firefox. Update to stay fast and safe.
-Se pare că folosiți o variantă mai veche de Firefox. Actualizați pentru a rămâne rapid și în siguranță.
+Se pare că folosești o versiune mai veche de Firefox. Actualizează pentru a rămâne rapid și în siguranță.
 
 
 ;Update Firefox Now
-Actualizați Firefox acum
+Actualizează Firefox acum
 
 
