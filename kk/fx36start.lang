@@ -31,7 +31,7 @@ Google іздеуі
 
 
 ;<a href="{0}">Upgrade today</a> to get the best of the Web!
-Вебтің жақсысын алу үшін браузеріңізді <a href="{0}">бүгін жаңартыңыз</a>!
+Интернеттің жақсысын алу үшін браузеріңізді <a href="{0}">бүгін жаңартыңыз</a>!
 
 
 ;About Mozilla
@@ -47,7 +47,7 @@ Firefox қолдауы
 
 
 ;Your Firefox is out of date!
-Сіздегі Firefox ескірген!
+Сіздің Firefox ескірген!
 
 
 ;Please download the latest version to continue.
@@ -67,33 +67,33 @@ Firefox қолдауы
 
 
 ;No thanks, I'll risk it.
-Жоқ рахмет, тәуекел деп жалғастырамын.
+Жоқ, рахмет, тәуекел деп жалғастырамын.
 
 
 ;A message about your browser
-A message about your browser
+Браузеріңіз туралы хабарлама
 
 
 # Displayed to users with Firefox 3
 ;You're using Firefox 3, which was amazing in 2010, but why not try a brand new version of Firefox instead?
-You're using Firefox 3, which was amazing in 2010, but why not try a brand new version of Firefox instead?
+Сіз Firefox 3 қолданудасыз, ол 2010 жылы тамаша болған, бірақ, енді Firefox-тың жаңа нұсқасын неге қолданбасқа?
 
 
 # Displayed to users with Firefox 4
 ;You're using Firefox 4, which was amazing in 2011, but why not try a brand new version of Firefox instead?
-You're using Firefox 4, which was amazing in 2011, but why not try a brand new version of Firefox instead?
+Сіз Firefox 4 қолданудасыз, ол 2011 жылы тамаша болған, бірақ, енді Firefox-тың жаңа нұсқасын неге қолданбасқа?
 
 
 ;It's better, more secure and only takes a minute to update.
-It's better, more secure and only takes a minute to update.
+Ол жақсырақ, қауіпсіздігі жоғарылау, және оған жаңарту бірнеше минутты ғана алады.
 
 
 # Displayed to users with an obsolete version of Firefox
 ;Looks like you’re using an older version of Firefox. Update to stay fast and safe.
-Looks like you’re using an older version of Firefox. Update to stay fast and safe.
+Сіз Firefox-тың ескілеу нұсқасын қолданатын сияқтысыз. Жылдам әрі қауіпсіз болу үшін оны жаңартыңыз.
 
 
 ;Update Firefox Now
-Update Firefox Now
+Firefox-ты қазір жаңарту
 
 
