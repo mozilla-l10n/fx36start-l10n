@@ -1,9 +1,8 @@
 ## NOTE: test server at http://start.allizom.org/en-US/
 ## NOTE: to properly test this page you need User Agent Switcher add-on
 
-
 ;Mozilla Firefox Start Page
-Mozilla Firefox - Página inicial
+Página de inicio de Mozilla Firefox
 
 
 ;Firefox Start
@@ -15,7 +14,7 @@ Logo de Firefox
 
 
 ;Google Search
-Búsqueda de Google
+Búsqueda en Google
 
 
 ;Advanced search
@@ -27,19 +26,19 @@ Preferencias
 
 
 ;You're not on the latest version of Firefox.
-No estás usando la última versión de Firefox.
+No estás en a última versión de Firefox.
 
 
 ;<a href="{0}">Upgrade today</a> to get the best of the Web!
-¡<a href="{0}">Actualiza ahora</a> para obtener lo mejor de la web!
+<a href="{0}">¡Actualiza hoy</a> para obtener lo mejor de la Web!
 
 
 ;About Mozilla
-¿Qué es Mozilla?
+Acerca de Mozilla Firefox
 
 
 ;Firefox Support
-Asistencia para Firefox
+Soporte de Firefox
 
 
 ;Important
@@ -55,45 +54,43 @@ Por favor, descarga la última versión para continuar.
 
 
 ;Your browser is out of date.
-Tu navegador no está actualizado.
+Tu navegador no está actualizado
 
 
 ;Upgrade today for the latest in speed and security.
-Actualiza hoy mismo para tener lo último en velocidad y seguridad.
+Actualiza hoy para obtener lo último en velocidad y seguridad.
 
 
 ;Free Download
-Descarga gratuita
+Descarga gratis
 
 
 ;No thanks, I'll risk it.
-No gracias, voy a arriesgarme.
+No gracias, me arriesgaré.
 
 
 ;A message about your browser
-A message about your browser
+Un mensaje acerca de tu navegador
 
 
 # Displayed to users with Firefox 3
 ;You're using Firefox 3, which was amazing in 2010, but why not try a brand new version of Firefox instead?
-You're using Firefox 3, which was amazing in 2010, but why not try a brand new version of Firefox instead?
+Estás usando Firefox 3, el cual fue excelente en 2010, ¿pero por qué no probar una nueva versión de Firefox?
 
 
 # Displayed to users with Firefox 4
 ;You're using Firefox 4, which was amazing in 2011, but why not try a brand new version of Firefox instead?
-You're using Firefox 4, which was amazing in 2011, but why not try a brand new version of Firefox instead?
+Estás usando Firefox 4, el cual fue excelente en 2011, ¿pero por qué no probar una nueva versión de Firefox?
 
 
 ;It's better, more secure and only takes a minute to update.
-It's better, more secure and only takes a minute to update.
+Es mejor, más seguro y solo toma unos minutos actualizar.
 
 
 # Displayed to users with an obsolete version of Firefox
 ;Looks like you’re using an older version of Firefox. Update to stay fast and safe.
-Looks like you’re using an older version of Firefox. Update to stay fast and safe.
+Parece que estás usando una versión antigua de Firefox. Actualiza para obtener velocidad y seguridad.
 
 
 ;Update Firefox Now
-Update Firefox Now
-
-
+Actualiza Firefox ahora
