@@ -1,0 +1,99 @@
+## NOTE: test server at http://start.allizom.org/en-US/
+## NOTE: to properly test this page you need User Agent Switcher add-on
+
+
+;Mozilla Firefox Start Page
+Leathanach Tosaigh Mozilla Firefox
+
+
+;Firefox Start
+Tosú Firefox
+
+
+;Firefox Logo
+Lógó Firefox
+
+
+;Google Search
+Cuardach Google
+
+
+;Advanced search
+Cuardach casta
+
+
+;Preferences
+Sainroghanna
+
+
+;You're not on the latest version of Firefox.
+Níl an leagan is déanaí de Firefox agat.
+
+
+;<a href="{0}">Upgrade today</a> to get the best of the Web!
+<a href="{0}">Nuashonraigh inniu</a> agus faigh scoth an Ghréasáin!
+
+
+;About Mozilla
+Maidir le Mozilla
+
+
+;Firefox Support
+Tacaíocht Firefox
+
+
+;Important
+Tábhachtach
+
+
+;Your Firefox is out of date!
+Tá an leagan seo de Firefox as dáta!
+
+
+;Please download the latest version to continue.
+Íosluchtaigh an leagan is déanaí chun leanúint.
+
+
+;Your browser is out of date.
+Tá do bhrabhsálaí Gréasáin as dáta.
+
+
+;Upgrade today for the latest in speed and security.
+Nuashonraigh agus faigh feabhsúcháin a bhaineann le luas agus slándáil.
+
+
+;Free Download
+Íosluchtú Saor in Aisce
+
+
+;No thanks, I'll risk it.
+Níor mhaith liom nuashonrú.
+
+
+;A message about your browser
+Teachtaireacht faoi do bhrabhsálaí
+
+
+# Displayed to users with Firefox 3
+;You're using Firefox 3, which was amazing in 2010, but why not try a brand new version of Firefox instead?
+Is é leagan 3 de Firefox atá agat, rud a bhí thar barr i 2010, ach nár mhaith leat triail a bhaint as an leagan is déanaí de Firefox anois?
+
+
+# Displayed to users with Firefox 4
+;You're using Firefox 4, which was amazing in 2011, but why not try a brand new version of Firefox instead?
+Is é leagan 4 de Firefox atá agat, rud a bhí thar barr i 2011, ach nár mhaith leat triail a bhaint as an leagan is déanaí de Firefox anois?
+
+
+;It's better, more secure and only takes a minute to update.
+Tá sé níos fearr, níos sábháilte, agus ní bheidh sé ach nóiméad é a shuiteáil.
+
+
+# Displayed to users with an obsolete version of Firefox
+;Looks like you’re using an older version of Firefox. Update to stay fast and safe.
+Dealraíonn sé go bhfuil tú ag úsáid seanleagan de Firefox. Ba chóir duit an leagan is déanaí, brabhsálaí níos tapaidh níos sábháilte, a shuiteáil.
+
+
+;Update Firefox Now
+Nuashonraigh Firefox Anois
+
+

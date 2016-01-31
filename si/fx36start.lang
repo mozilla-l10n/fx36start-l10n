@@ -1,0 +1,99 @@
+## NOTE: test server at http://start.allizom.org/en-US/
+## NOTE: to properly test this page you need User Agent Switcher add-on
+
+
+;Mozilla Firefox Start Page
+මොසිල්ලා ෆයර්ෆොක්ස් ඇරඹුම් පිටුව
+
+
+;Firefox Start
+ෆයර්ෆොක්ස් ඇරඹුම
+
+
+;Firefox Logo
+ෆයර්ෆොක්ස් ලාංඡනය
+
+
+;Google Search
+Google සෙවුම්
+
+
+;Advanced search
+වැඩිමනත් සෙවුම්
+
+
+;Preferences
+මනාපයන්
+
+
+;You're not on the latest version of Firefox.
+ඔබ සිටින්නේ නවතම ෆයර්ෆොක්ස් නිකුතුව සමඟ නොවේ.
+
+
+;<a href="{0}">Upgrade today</a> to get the best of the Web!
+<a href="{0}">අදම නව නිකුතුව ලබාගන්න</a> හොඳම වෙබ් අත්දැකීම ලබන්න!
+
+
+;About Mozilla
+Mozilla පිළිබඳව
+
+
+;Firefox Support
+Firefox සහායය
+
+
+;Important
+වැදගත්
+
+
+;Your Firefox is out of date!
+ඔබගේ ෆයර්ෆොක්ස් කල් ඉකුත්වී ඇත!
+
+
+;Please download the latest version to continue.
+නවතම නිකුතුව ලබාගෙන ඉදිරියට යන්න.
+
+
+;Your browser is out of date.
+ඔබගේ බ්‍රව්සරය කල් ඉකුත්වී ඇත!.
+
+
+;Upgrade today for the latest in speed and security.
+වෙගවත් හා ආරක්ෂිත නවතම නිකුතුවට ප්‍රවිශ්ඨ වන්න.
+
+
+;Free Download
+නොමිලේ ලබා ගන්න
+
+
+;No thanks, I'll risk it.
+එපා ස්තුතියි, මම අවදානම භාරගනිමි.
+
+
+;A message about your browser
+A message about your browser
+
+
+# Displayed to users with Firefox 3
+;You're using Firefox 3, which was amazing in 2010, but why not try a brand new version of Firefox instead?
+You're using Firefox 3, which was amazing in 2010, but why not try a brand new version of Firefox instead?
+
+
+# Displayed to users with Firefox 4
+;You're using Firefox 4, which was amazing in 2011, but why not try a brand new version of Firefox instead?
+You're using Firefox 4, which was amazing in 2011, but why not try a brand new version of Firefox instead?
+
+
+;It's better, more secure and only takes a minute to update.
+It's better, more secure and only takes a minute to update.
+
+
+# Displayed to users with an obsolete version of Firefox
+;Looks like you’re using an older version of Firefox. Update to stay fast and safe.
+Looks like you’re using an older version of Firefox. Update to stay fast and safe.
+
+
+;Update Firefox Now
+Update Firefox Now
+
+

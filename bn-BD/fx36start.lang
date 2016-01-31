@@ -1,0 +1,99 @@
+## NOTE: test server at http://start.allizom.org/en-US/
+## NOTE: to properly test this page you need User Agent Switcher add-on
+
+
+;Mozilla Firefox Start Page
+মোজিলা ফায়ারফক্স প্রথম পাতা
+
+
+;Firefox Start
+ফায়ারফক্স আরম্ভ
+
+
+;Firefox Logo
+ফায়ারফক্স লোগো
+
+
+;Google Search
+গুগল অনুসন্ধান
+
+
+;Advanced search
+উন্নত অনুসন্ধান
+
+
+;Preferences
+পছন্দ
+
+
+;You're not on the latest version of Firefox.
+আপনি ফায়ারফক্সের নতুন সংস্করণ ব্যবহার করছেন না।
+
+
+;<a href="{0}">Upgrade today</a> to get the best of the Web!
+ওয়েব এর সর্বোৎকৃষ্ট সুফল পেতে <a href="{0}">আজই আপগ্রেড</a> করুন!
+
+
+;About Mozilla
+মোজিল পরিচিতি
+
+
+;Firefox Support
+ফায়ারফক্স সাপোর্ট
+
+
+;Important
+গুরুত্বপূর্ণ
+
+
+;Your Firefox is out of date!
+আপনি পুরাতন ফায়ারফক্স ব্যবহার করছেন!
+
+
+;Please download the latest version to continue.
+চালিয়ে যেতে সর্বশেষ সংস্করণ ডাউনলোড করুন।
+
+
+;Your browser is out of date.
+আপনি পুরাতন ব্রাউজার ব্যবহার করছেন!
+
+
+;Upgrade today for the latest in speed and security.
+গতি ও নিরাপত্তার সর্বশেষ বৈশিষ্ট্য পেতে আজই আপগ্রেড করুন।
+
+
+;Free Download
+বিনামূল্যে ডাউনলোড
+
+
+;No thanks, I'll risk it.
+জ্বী না ধন্যবাদ, আমি ভয় পাইনা।
+
+
+;A message about your browser
+আপনার ব্রাউজার সম্পর্কে একটি বার্তা
+
+
+# Displayed to users with Firefox 3
+;You're using Firefox 3, which was amazing in 2010, but why not try a brand new version of Firefox instead?
+আপনি ফায়ারফক্স 3 ব্যবহার করছেন, যেটা 2010 সালে অসাধারণ ছিল, কিন্তু কেন ফায়ারফক্সের একদম নতুন সংস্করণ ব্যবহার করার চেষ্টা করছেন না?
+
+
+# Displayed to users with Firefox 4
+;You're using Firefox 4, which was amazing in 2011, but why not try a brand new version of Firefox instead?
+আপনি ফায়ারফক্স 4 ব্যবহার করছেন, যেটা 2011 সালে অসাধারণ ছিল, কিন্তু কেন ফায়ারফক্সের একদম নতুন সংস্করণ ব্যবহার করার চেষ্টা করছেন না?
+
+
+;It's better, more secure and only takes a minute to update.
+এটা ভালো, আরও নিরাপদ এবং শুধুমাত্র কিছু সময় লাগবে আপডেট করতে।
+
+
+# Displayed to users with an obsolete version of Firefox
+;Looks like you’re using an older version of Firefox. Update to stay fast and safe.
+এটা দেখা যাচ্ছে যে আপনি ফায়ারফক্সের একটা পুরোনো সংস্করণ ব্যবহার করছেন। আপডেট করুন দ্রুত এবং নিরাপদ থাকবার জন্য।
+
+
+;Update Firefox Now
+আপনার ফায়ারফক্স আপডেট করুন এখন
+
+

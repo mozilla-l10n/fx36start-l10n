@@ -1,0 +1,99 @@
+## NOTE: test server at http://start.allizom.org/en-US/
+## NOTE: to properly test this page you need User Agent Switcher add-on
+
+
+;Mozilla Firefox Start Page
+صفحهٔ آغازین موزیلا فایرفاکس
+
+
+;Firefox Start
+شروع فایرفاکس
+
+
+;Firefox Logo
+نشان فایرفاکس
+
+
+;Google Search
+جست‌وجو گوگل
+
+
+;Advanced search
+جست‌وجو پیشرفته
+
+
+;Preferences
+ترجیحات
+
+
+;You're not on the latest version of Firefox.
+شما از آخرین نسخهٔ فایرفاکس استفاده نمی‌کنید.
+
+
+;<a href="{0}">Upgrade today</a> to get the best of the Web!
+<a href="{0}">امروز بروزرسانی کنید</a> تا بهترین‌ها را از وب دریافت کنید!
+
+
+;About Mozilla
+دربارهٔ موزیلا
+
+
+;Firefox Support
+پشتیبانی فایرفاکس
+
+
+;Important
+مهم
+
+
+;Your Firefox is out of date!
+فایرفاکس شما قدیمی است!
+
+
+;Please download the latest version to continue.
+لطفا جهت ادامه، آخرین نسخه را دریافت کنید.
+
+
+;Your browser is out of date.
+مرورگر شما قدیمی است.
+
+
+;Upgrade today for the latest in speed and security.
+امروز بروزرسانی کنید، تا آخرین‌ها در سرعت و امنیت را دریافت کنید.
+
+
+;Free Download
+بارگیری رایگان
+
+
+;No thanks, I'll risk it.
+نه ممنون، من ریسک‌اش را می‌پذیرم.
+
+
+;A message about your browser
+یک پیام در مورد مرورگر شما
+
+
+# Displayed to users with Firefox 3
+;You're using Firefox 3, which was amazing in 2010, but why not try a brand new version of Firefox instead?
+شما در حال استفاده از فایرفاکس ۳ هستید، که در سال ۱۳۸۸ خیلی عالی بود، اما چرا یک نسخه جدید فایرفاکس را امتحان نمی‌کنید.
+
+
+# Displayed to users with Firefox 4
+;You're using Firefox 4, which was amazing in 2011, but why not try a brand new version of Firefox instead?
+شما در حال استفاده از فایرفاکس ۳ هستید، که در سال ۱۳۸۹ خیلی عالی بود، اما چرا یک نسخه جدید فایرفاکس را امتحان نمی‌کنید.
+
+
+;It's better, more secure and only takes a minute to update.
+هم بهتر است، هم امن‌تر و تنها چند دقیقه بروزرسانی آن طول می‌کشد.
+
+
+# Displayed to users with an obsolete version of Firefox
+;Looks like you’re using an older version of Firefox. Update to stay fast and safe.
+بنظر می‌رسد که شما از یک نسخه قدیمی فایرفاکس را استفاده می‌کنید. برای سریع و امن ماندن، بروزرسانی کنید.
+
+
+;Update Firefox Now
+هم حالا فایرفاکس را بروزرسانی کنید
+
+

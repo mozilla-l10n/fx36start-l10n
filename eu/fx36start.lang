@@ -1,0 +1,99 @@
+## NOTE: test server at http://start.allizom.org/en-US/
+## NOTE: to properly test this page you need User Agent Switcher add-on
+
+
+;Mozilla Firefox Start Page
+Mozilla Firefoxen hasiera-orria
+
+
+;Firefox Start
+Firefoxen hasiera
+
+
+;Firefox Logo
+Firefoxen logoa
+
+
+;Google Search
+Google bilaketa
+
+
+;Advanced search
+Bilaketa aurreratua
+
+
+;Preferences
+Hobespenak
+
+
+;You're not on the latest version of Firefox.
+Ez daukazu Firefoxen azken bertsioa.
+
+
+;<a href="{0}">Upgrade today</a> to get the best of the Web!
+<a href="{0}">Bertsio-berritu orain</a> webaren onena eskuratzeko!
+
+
+;About Mozilla
+Mozillari buruz
+
+
+;Firefox Support
+Firefoxen laguntza
+
+
+;Important
+Garrantzitsua
+
+
+;Your Firefox is out of date!
+Zure Firefox ez dago eguneratuta!
+
+
+;Please download the latest version to continue.
+Mesedez, deskargatu azken bertsioa jarraitzeko.
+
+
+;Your browser is out of date.
+Zure nabigatzailea ez dago eguneratuta.
+
+
+;Upgrade today for the latest in speed and security.
+Bertsio-berritu orain punta-puntako abiadura eta segurtasuna eskuratzeko.
+
+
+;Free Download
+Doako deskarga
+
+
+;No thanks, I'll risk it.
+Ez, eskerrik asko. Arriskuan jarraituko dut.
+
+
+;A message about your browser
+Mezu bat zure nabigatzaileari buruz
+
+
+# Displayed to users with Firefox 3
+;You're using Firefox 3, which was amazing in 2010, but why not try a brand new version of Firefox instead?
+Firefox 3 darabilzu, 2010. urtean mundiala zena, baina zergatik ez duzu Firefoxen bertsio berri bat probatzen?
+
+
+# Displayed to users with Firefox 4
+;You're using Firefox 4, which was amazing in 2011, but why not try a brand new version of Firefox instead?
+Firefox 4 darabilzu, 2011. urtean mundiala zena, baina zergatik ez duzu Firefoxen bertsio berri bat probatzen?
+
+
+;It's better, more secure and only takes a minute to update.
+Hobea da, seguruagoa, eta eguneratzeko minutu bat baino ez duzu beharko.
+
+
+# Displayed to users with an obsolete version of Firefox
+;Looks like you’re using an older version of Firefox. Update to stay fast and safe.
+Antza denez, Firefoxen bertsio zahar bat darabilzu. Eguneratu bizkortasuna eta segurtasuna lortzeko.
+
+
+;Update Firefox Now
+Eguneratu Firefox orain
+
+

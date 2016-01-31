@@ -1,0 +1,99 @@
+## NOTE: test server at http://start.allizom.org/en-US/
+## NOTE: to properly test this page you need User Agent Switcher add-on
+
+
+;Mozilla Firefox Start Page
+ਮੋਜ਼ੀਲਾ ਫਾਇਰਫਾਕਸ ਸ਼ੁਰੂ ਸਫ਼ਾ
+
+
+;Firefox Start
+ਫਾਇਰਫਾਕਸ ਸ਼ੁਰੂ
+
+
+;Firefox Logo
+ਫਾਇਰਫਾਕਸ ਲੋਗੋ
+
+
+;Google Search
+Google ਖੋਜ
+
+
+;Advanced search
+ਤਕਨੀਕੀ ਖੋਜ
+
+
+;Preferences
+ਮੇਰੀ ਪਸੰਦ
+
+
+;You're not on the latest version of Firefox.
+ਤੁਸੀਂ ਫਾਇਰਫਾਕਸ ਦਾ ਨਵਾਂ ਵਰਜਨ ਨਹੀਂ ਵਰਤ ਰਹੇ ਹੋ।
+
+
+;<a href="{0}">Upgrade today</a> to get the best of the Web!
+ਵੈੱਬ ਦੀ ਸਭ ਤੋਂ ਵਧੀਆ ਵਰਤੋਂ ਕਰਨ ਲਈ <a href="{0}">ਅੱਜ ਹੀ ਅੱਪਗਰੇਡ ਕਰੋ</a>!
+
+
+;About Mozilla
+ਮੌਜੀਲਾ ਬਾਰੇ
+
+
+;Firefox Support
+ਫਾਇਰਫਾਕਸ ਸਹਿਯੋਗ
+
+
+;Important
+ਖਾਸ
+
+
+;Your Firefox is out of date!
+ਤੁਹਾਡਾ ਫਾਇਰਫਾਕਸ ਪੁਰਾਣਾ ਹੋ ਗਿਆ ਹੈ!
+
+
+;Please download the latest version to continue.
+ਜਾਰੀ ਰੱਖਣ ਲਈ ਸਭ ਤੋਂ ਨਵਾਂ ਵਰਜਨ ਡਾਊਨਲੋਡ ਕਰੋ ਜੀ।
+
+
+;Your browser is out of date.
+ਤੁਹਾਡਾ ਬਰਾਊਜ਼ਰ ਪੁਰਾਣਾ ਹੋ ਗਿਆ ਹੈ।
+
+
+;Upgrade today for the latest in speed and security.
+ਤੇਜ਼ ਗਤੀ ਅਤੇ ਸੁਰੱਖਿਆ ਵਿੱਚੋਂ ਸਭ ਤੋਂ ਨਵੇਂ ਲਈ ਅੱਜ ਹੀ ਅੱਪਗਰੇਡ ਕਰੋ।
+
+
+;Free Download
+ਮੁਫ਼ਤ ਡਾਊਨਲੋਡ
+
+
+;No thanks, I'll risk it.
+ਨਹੀਂ ਧੰਨਵਾਦ ਜੀ, ਮੈਂ ਖਤਰਾ ਲਵਾਂਗਾ/ਲਵਾਂਗੀ।
+
+
+;A message about your browser
+ਤੁਹਾਡੇ ਬਰਾਊਜ਼ਰ ਵਲੋਂ ਸੁਨੇਹਾ
+
+
+# Displayed to users with Firefox 3
+;You're using Firefox 3, which was amazing in 2010, but why not try a brand new version of Firefox instead?
+ਤੁਸੀਂ ਫਾਇਰਫਾਕਸ 4 ਵਰਤ ਰਹੇ ਹੋ, ਜੋ ਕਿ 2010 ਵਿੱਚ ਸ਼ਾਨਦਾਰ ਸੀ, ਪਰ ਇਸ ਦੀ ਬਜਾਏ ਫਾਇਰਫਾਕਸ ਦੇ ਨਵੇਂ ਵਰਜ਼ਨ ਨੂੰ ਕਿਉਂ ਨਹੀਂ ਵਰਤ ਕੇ ਵੇਖਦੇ ਹੋ?
+
+
+# Displayed to users with Firefox 4
+;You're using Firefox 4, which was amazing in 2011, but why not try a brand new version of Firefox instead?
+ਤੁਸੀਂ ਫਾਇਰਫਾਕਸ 4 ਵਰਤ ਰਹੇ ਹੋ, ਜੋ ਕਿ 2011 ਵਿੱਚ ਸ਼ਾਨਦਾਰ ਸੀ, ਪਰ ਇਸ ਦੀ ਬਜਾਏ ਫਾਇਰਫਾਕਸ ਦੇ ਨਵੇਂ ਵਰਜ਼ਨ ਨੂੰ ਕਿਉਂ ਨਹੀਂ ਵਰਤ ਕੇ ਵੇਖਦੇ ਹੋ?
+
+
+;It's better, more secure and only takes a minute to update.
+ਇਹ ਵਧੀਆ ਹੈ, ਵੱਧ ਸੁਰੱਖਿਅਤ ਹੈ ਅਤੇ ਅਪਡੇਟ ਕਰਨ ਲਈ ਬਸ ਇੱਕ ਹੀ ਮਿੰਟ ਲੱਗੇਗਾ।
+
+
+# Displayed to users with an obsolete version of Firefox
+;Looks like you’re using an older version of Firefox. Update to stay fast and safe.
+ਜਾਪਦਾ ਹੈ ਕਿ ਤੁਸੀਂ ਫਾਇਰਫਾਕਸ ਦਾ ਪੁਰਾਣਆ ਵਰਜ਼ਨ ਵਰਤ ਰਹੇ ਹੋ। ਤੇਜ਼ ਤੇ ਸੁਰੱਖਿਅਤ ਬਣੇ ਰਹਿਣ ਲਈ ਅੱਪਡੇਟ ਕਰੋ।
+
+
+;Update Firefox Now
+ਫਾਇਰਫਾਕਸ ਨੂੰ ਹੁਣੇ ਅੱਪਡੇਟ ਕਰੋ
+
+

@@ -1,0 +1,99 @@
+## NOTE: test server at http://start.allizom.org/en-US/
+## NOTE: to properly test this page you need User Agent Switcher add-on
+
+
+;Mozilla Firefox Start Page
+Tudalen Cychwyn Mozilla Firefox
+
+
+;Firefox Start
+Cychwyn Firefox
+
+
+;Firefox Logo
+Logo Firefox
+
+
+;Google Search
+Chwilio Google
+
+
+;Advanced search
+Chwilio Uwch
+
+
+;Preferences
+Dewisiadau
+
+
+;You're not on the latest version of Firefox.
+Nid ydych yn defnyddio'r fersiwn diweddaraf o Firefox.
+
+
+;<a href="{0}">Upgrade today</a> to get the best of the Web!
+<a href="{0}">Diweddarwch heddiw</a> i gael y gorau o'r We!
+
+
+;About Mozilla
+Ynghylch Mozilla
+
+
+;Firefox Support
+Cefnogaeth Firefox
+
+
+;Important
+Pwysig
+
+
+;Your Firefox is out of date!
+Mae eich Firefox yn hen
+
+
+;Please download the latest version to continue.
+Llwythwch i lawr y diweddaraf er mwyn parhau.
+
+
+;Your browser is out of date.
+Mae eich porwr yn hen.
+
+
+;Upgrade today for the latest in speed and security.
+Diweddarwch heddiw am y cyflymder a'r diogelwch diweddaraf.
+
+
+;Free Download
+Llwytho i Lawr am Ddim
+
+
+;No thanks, I'll risk it.
+Dim diolch, mi gymraf fy siawns.
+
+
+;A message about your browser
+Neges am eich porwr
+
+
+# Displayed to users with Firefox 3
+;You're using Firefox 3, which was amazing in 2010, but why not try a brand new version of Firefox instead?
+Rydych yn defnyddio Firefox 3, oedd yn wych yn 2010, ond beth am ddefnyddio fersiwn newydd sbon o Firefox yn lle hynny?
+
+
+# Displayed to users with Firefox 4
+;You're using Firefox 4, which was amazing in 2011, but why not try a brand new version of Firefox instead?
+Rydych yn defnyddio Firefox 4, oedd yn wych yn 2011, ond beth am ddefnyddio fersiwn newydd sbon o Firefox yn lle hynny?
+
+
+;It's better, more secure and only takes a minute to update.
+Mae'n well, yn fwy diogel a dim ond ychydig o funudau mae'n cymryd i'w osod.
+
+
+# Displayed to users with an obsolete version of Firefox
+;Looks like you’re using an older version of Firefox. Update to stay fast and safe.
+Rydych y defnyddio hen fersiwn o Firefox. Diweddarwch i gadw'n gyflym a diogel.
+
+
+;Update Firefox Now
+Diweddarwch Firefox Nawr
+
+

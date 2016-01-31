@@ -1,0 +1,99 @@
+## NOTE: test server at http://start.allizom.org/en-US/
+## NOTE: to properly test this page you need User Agent Switcher add-on
+
+
+;Mozilla Firefox Start Page
+Pàgina d'inici del Mozilla Firefox
+
+
+;Firefox Start
+Inici del Firefox
+
+
+;Firefox Logo
+Logo del Firefox
+
+
+;Google Search
+Cerca a Google
+
+
+;Advanced search
+Cerca avançada
+
+
+;Preferences
+Preferències
+
+
+;You're not on the latest version of Firefox.
+No teniu la darrera versió del Firefox.
+
+
+;<a href="{0}">Upgrade today</a> to get the best of the Web!
+<a href="{0}">Actualitzeu-vos avui</a> per tenir el millor del web!
+
+
+;About Mozilla
+Quant a Mozilla
+
+
+;Firefox Support
+Ajuda del Firefox
+
+
+;Important
+Important {ok}
+
+
+;Your Firefox is out of date!
+No teniu el Firefox actualitzat!
+
+
+;Please download the latest version to continue.
+Baixeu la darrera versió per a continuar.
+
+
+;Your browser is out of date.
+No teniu el navegador actualitzat.
+
+
+;Upgrade today for the latest in speed and security.
+Actualitzeu-vos avui per tenir les darreres novetats en velocitat i seguretat.
+
+
+;Free Download
+Baixada gratuïta
+
+
+;No thanks, I'll risk it.
+No gràcies, m'arriscaré.
+
+
+;A message about your browser
+Un missatge sobre el vostre navegador
+
+
+# Displayed to users with Firefox 3
+;You're using Firefox 3, which was amazing in 2010, but why not try a brand new version of Firefox instead?
+Esteu utilitzant el Firefox 3, que era genial l'any 2010 però, voleu provar la nova versió del Firefox?
+
+
+# Displayed to users with Firefox 4
+;You're using Firefox 4, which was amazing in 2011, but why not try a brand new version of Firefox instead?
+Esteu utilitzant el Firefox 4, que era genial l'any 2011 però, voleu provar la nova versió del Firefox?
+
+
+;It's better, more secure and only takes a minute to update.
+És millor, més segur i només trigareu un minut a actualitzar-lo.
+
+
+# Displayed to users with an obsolete version of Firefox
+;Looks like you’re using an older version of Firefox. Update to stay fast and safe.
+Sembla que esteu utilitzant una versió antiga del Firefox. Actualitzeu-lo per a gaudir de més rapidesa i seguretat.
+
+
+;Update Firefox Now
+Actualitzeu ara el Firefox
+
+

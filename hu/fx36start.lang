@@ -1,0 +1,99 @@
+## NOTE: test server at http://start.allizom.org/en-US/
+## NOTE: to properly test this page you need User Agent Switcher add-on
+
+
+;Mozilla Firefox Start Page
+Mozilla Firefox kezdőoldal
+
+
+;Firefox Start
+Firefox Start {ok}
+
+
+;Firefox Logo
+Firefox Logó
+
+
+;Google Search
+Google keresés
+
+
+;Advanced search
+Speciális keresés
+
+
+;Preferences
+Beállítások
+
+
+;You're not on the latest version of Firefox.
+Nem a legfrissebb Firefox verziót használja.
+
+
+;<a href="{0}">Upgrade today</a> to get the best of the Web!
+<a href="{0}">Frissítsen most</a>, hogy a legtöbbet hozhassa ki az internetből!
+
+
+;About Mozilla
+A Mozilláról
+
+
+;Firefox Support
+Firefox Támogatás
+
+
+;Important
+Fontos
+
+
+;Your Firefox is out of date!
+Ez a Firefox verzió elavult!
+
+
+;Please download the latest version to continue.
+A folytatáshoz töltse le a legfrissebb verziót.
+
+
+;Your browser is out of date.
+Elavult böngészőverziót használ.
+
+
+;Upgrade today for the latest in speed and security.
+Frissítsen ma gyorsabb és biztonságosabb internetezésért.
+
+
+;Free Download
+Ingyenes letöltés
+
+
+;No thanks, I'll risk it.
+Nem, vállalom a kockázatot.
+
+
+;A message about your browser
+Figyelmeztetés
+
+
+# Displayed to users with Firefox 3
+;You're using Firefox 3, which was amazing in 2010, but why not try a brand new version of Firefox instead?
+Firefox 3-as verziót használ, amely nagyszerű volt 2010-ben, de miért nem próbálja ki a legújabb verziót?
+
+
+# Displayed to users with Firefox 4
+;You're using Firefox 4, which was amazing in 2011, but why not try a brand new version of Firefox instead?
+Firefox 4-es verziót használ, amely nagyszerű volt 2011-ben, de miért nem próbálja ki a legújabb verziót?
+
+
+;It's better, more secure and only takes a minute to update.
+A legfrissebb verzió jobb, biztonságosabb és a frissítés csak néhány percet vesz igénybe.
+
+
+# Displayed to users with an obsolete version of Firefox
+;Looks like you’re using an older version of Firefox. Update to stay fast and safe.
+Úgy néz ki, hogy egy régi Firefox verziót használ. Frissítsen, hogy  a böngészés gyors és biztonságos legyen.
+
+
+;Update Firefox Now
+Firefox frissítése
+
+

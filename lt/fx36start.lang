@@ -1,0 +1,99 @@
+## NOTE: test server at http://start.allizom.org/en-US/
+## NOTE: to properly test this page you need User Agent Switcher add-on
+
+
+;Mozilla Firefox Start Page
+„Mozilla Firefox“ pradžios tinklalapis
+
+
+;Firefox Start
+Firefox Pradžia
+
+
+;Firefox Logo
+Firefox logotipas
+
+
+;Google Search
+„Google“ paieška
+
+
+;Advanced search
+Išplėstinė paieška
+
+
+;Preferences
+Nuostatos
+
+
+;You're not on the latest version of Firefox.
+Jūs naudojatės ne paskiausia „Firefox“ laida.
+
+
+;<a href="{0}">Upgrade today</a> to get the best of the Web!
+<a href="{0}">Atnaujinkite ją</a> ir mėgaukitės naujausiais šios naršyklės privalumais!
+
+
+;About Mozilla
+Apie „Mozillą“
+
+
+;Firefox Support
+„Firefox“ palaikymas
+
+
+;Important
+Svarbu
+
+
+;Your Firefox is out of date!
+Jūsų naudojama „Firefox“ laida pasenusi!
+
+
+;Please download the latest version to continue.
+Prašome parsisiųsti naujausią laidą prieš tęsiant.
+
+
+;Your browser is out of date.
+Jūsų naršyklė pasenusi.
+
+
+;Upgrade today for the latest in speed and security.
+Atnaujinkite ją šiandien – galėsite džiaugtis spartos ir saugumo pataisomis.
+
+
+;Free Download
+Parsisiųskite
+
+
+;No thanks, I'll risk it.
+Ne, ačiū. Aš prisiimsiu riziką.
+
+
+;A message about your browser
+Pranešimas apie jūsų naršyklę
+
+
+# Displayed to users with Firefox 3
+;You're using Firefox 3, which was amazing in 2010, but why not try a brand new version of Firefox instead?
+Jūs naudojatės „Firefox 3“ naršykle, kuri buvo nuostabi 2010-aisiais, tačiau kodėl neišbandžius žymiai naujesnės „Firefox“ laidos?
+
+
+# Displayed to users with Firefox 4
+;You're using Firefox 4, which was amazing in 2011, but why not try a brand new version of Firefox instead?
+Jūs naudojatės „Firefox 4“ naršykle, kuri buvo nuostabi 2011-aisiais, tačiau kodėl neišbandžius žymiai naujesnės „Firefox“ laidos?
+
+
+;It's better, more secure and only takes a minute to update.
+Ji geresnė ir saugesnė, o atnaujinimas užtruks vos minutę.
+
+
+# Displayed to users with an obsolete version of Firefox
+;Looks like you’re using an older version of Firefox. Update to stay fast and safe.
+Panašu, jog jūs naudojatės pasenusia „Firefox“ laida. Atnaujinkite ją ir išlikite saugūs.
+
+
+;Update Firefox Now
+Atnaujinti „Firefox“ dabar
+
+

@@ -1,0 +1,99 @@
+## NOTE: test server at http://start.allizom.org/en-US/
+## NOTE: to properly test this page you need User Agent Switcher add-on
+
+
+;Mozilla Firefox Start Page
+ಮೋಝಿಲ್ಲಾ ಫೈರ್ಫಾಕ್ಸ್‍ ಆರಂಭಿಕ ಪುಟ
+
+
+;Firefox Start
+ಫೈರ್ಫಾಕ್ಸ್ ಆರಂಭ
+
+
+;Firefox Logo
+ಫೈರ್ಫಾಕ್ಸ್ ಲಾಂಛನ
+
+
+;Google Search
+ಗೂಗಲ್ ಹುಡುಕಾಟ
+
+
+;Advanced search
+ಸುಧಾರಿತ ಹುಡುಕಾಟ
+
+
+;Preferences
+ಆದ್ಯತೆಗಳು
+
+
+;You're not on the latest version of Firefox.
+ನೀವು ಫೈರ್ಫಾಕ್ಸಿನ ಇತ್ತೀಚಿನ ಆವೃತ್ತಿಯನ್ನು ಬಳಸುತ್ತಿಲ್ಲ.
+
+
+;<a href="{0}">Upgrade today</a> to get the best of the Web!
+ಜಾಲದಲ್ಲಿರುವ ಉತ್ತಮವಾದುದನ್ನು ಪಡೆಯಲು <a href="{0}">ಇಂದೇ ನವೀಕರಿಸಿ</a> !
+
+
+;About Mozilla
+ಮೋಝಿಲ್ಲಾ ಬಗ್ಗೆ
+
+
+;Firefox Support
+ಫೈರ್ಫಾಕ್ಸ್ ಬೆಂಬಲ
+
+
+;Important
+ಪ್ರಮುಖ ಅಂಶ
+
+
+;Your Firefox is out of date!
+ನಿಮ್ಮಲ್ಲಿನ ಫೈರ್ಫಾಕ್ಸ್ ಹಳತಾಗಿದೆ!
+
+
+;Please download the latest version to continue.
+ಮುಂದುವರೆಯಲು ಇತ್ತೀಚಿನ ಆವೃತ್ತಿಯನ್ನು ಇಳಿಸಿಕೊಳ್ಳಿ.
+
+
+;Your browser is out of date.
+ನಿಮ್ಮಲ್ಲಿರುವ ಜಾಲವೀಕ್ಷಕವು ಹಳತಾಗಿದೆ!
+
+
+;Upgrade today for the latest in speed and security.
+ವೇಗ ಮತ್ತು ಸುರಕ್ಷತೆಯ ವಿಷಯದಲ್ಲಿ ಮುಂಚೂಣಿಯಲ್ಲಿರುವುದಕ್ಕೆ ನವೀಕರಿಸಿಕೊಳ್ಳಿ.
+
+
+;Free Download
+ಉಚಿತ ಇಳಿಕೆ
+
+
+;No thanks, I'll risk it.
+ಪರವಾಗಿಲ್ಲ, ಅಪಾಯವನ್ನು ಎದುರಿಸಿಲು ಸಿದ್ಧನಿದ್ದೇನೆ.
+
+
+;A message about your browser
+ನಿಮ್ಮ ಬ್ರೌಸರ್ ಬಗ್ಗೆ ಒಂದು ಸಂದೇಶ
+
+
+# Displayed to users with Firefox 3
+;You're using Firefox 3, which was amazing in 2010, but why not try a brand new version of Firefox instead?
+ನೀವು Firefox 3 ಬಳಸುತ್ತಿದ್ದೀರಿ, ಅದು 2010 ರಲ್ಲಿ ಅತ್ಯುತ್ತಮವಾಗಿತ್ತು, ಆದರೆ ನೀವು ಹೊಚ್ಚಹೊಸ Firefox ಆವೃತ್ತಿಯನ್ನು ಏಕೆ ಪ್ರಯತ್ನಿಸಬಾರದು?
+
+
+# Displayed to users with Firefox 4
+;You're using Firefox 4, which was amazing in 2011, but why not try a brand new version of Firefox instead?
+ನೀವು Firefox 4 ಬಳಸುತ್ತಿದ್ದೀರಿ, ಅದು 2011 ರಲ್ಲಿ ಅತ್ಯುತ್ತಮವಾಗಿತ್ತು, ಆದರೆ ನೀವು ಹೊಚ್ಚಹೊಸ Firefox ಆವೃತ್ತಿಯನ್ನು ಏಕೆ ಪ್ರಯತ್ನಿಸಬಾರದು?
+
+
+;It's better, more secure and only takes a minute to update.
+ಇದು ಉತ್ತಮವಾದದ್ದು, ಹೆಚ್ಚು ಸುರಕ್ಷಿತವಾದದ್ದು ಮತ್ತು ಪರಿಷ್ಕರಿಸಲು ಕೆಲವೇ ಕೆಲವು ನಿಮಿಷ ತೆಗೆದುಕೊಳ್ಳುತ್ತದೆ.
+
+
+# Displayed to users with an obsolete version of Firefox
+;Looks like you’re using an older version of Firefox. Update to stay fast and safe.
+ನೀವು ಫೈರ್ಫಾಕ್ಸ್‌ನ ಹಳೆಯ ಆವೃತ್ತಿಯನ್ನು ಬಳಸುತ್ತಿದ್ದೀರಿ ಎಂದು ಕಾಣುತ್ತಿದೆ. ವೇಗ ಮತ್ತು ಸುರಕ್ಷಿತವಾಗಿರಲು ಪರಿಷ್ಕರಿಸಿ.
+
+
+;Update Firefox Now
+ಈಗ Firefox ಪರಿಷ್ಕರಿಸಿ
+
+

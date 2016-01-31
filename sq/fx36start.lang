@@ -1,0 +1,99 @@
+## NOTE: test server at http://start.allizom.org/en-US/
+## NOTE: to properly test this page you need User Agent Switcher add-on
+
+
+;Mozilla Firefox Start Page
+Faqja e Fillimit për Mozilla Firefox-in
+
+
+;Firefox Start
+Nisje e Firefox-it
+
+
+;Firefox Logo
+Stema e Firefox-it
+
+
+;Google Search
+Kërkim me Google
+
+
+;Advanced search
+Kërkim i thelluar
+
+
+;Preferences
+Parapëlqime
+
+
+;You're not on the latest version of Firefox.
+Nuk keni versionin më të ri të Firefox-it.
+
+
+;<a href="{0}">Upgrade today</a> to get the best of the Web!
+<a href="{0}">Përmirësojeni që sot</a> që të merrni më të mirën prej Web-it!
+
+
+;About Mozilla
+Rreth Mozilla-s
+
+
+;Firefox Support
+Asistencë për Firefox-in
+
+
+;Important
+E rëndësishme
+
+
+;Your Firefox is out of date!
+Firefox-i juaj është vjetruar!
+
+
+;Please download the latest version to continue.
+Ju lutem, që të vazhdohet shkarkoni versionin më të ri.
+
+
+;Your browser is out of date.
+Shfletuesi juaj është i vjetruar.
+
+
+;Upgrade today for the latest in speed and security.
+Përmirësojeni që sot, për shkallën më të re të shpejtësisë dhe sigurisë.
+
+
+;Free Download
+Shkarkim Falas
+
+
+;No thanks, I'll risk it.
+Jo, faleminderit, e marr parasysh rrezikun.
+
+
+;A message about your browser
+Një mesazh mbi shfletuesin tuaj
+
+
+# Displayed to users with Firefox 3
+;You're using Firefox 3, which was amazing in 2010, but why not try a brand new version of Firefox instead?
+Po përdorni Firefox 3-shin, që qe i mahnitshëm më 2010-n, por pse të mos provoni një version të ri të Firefox-it në vend të tij?
+
+
+# Displayed to users with Firefox 4
+;You're using Firefox 4, which was amazing in 2011, but why not try a brand new version of Firefox instead?
+Po përdorni Firefox 4-ën, që qe i mahnitshëm më 2011-n, por pse të mos provoni një version të ri të Firefox-it në vend të tij?
+
+
+;It's better, more secure and only takes a minute to update.
+Është më i mirë, më i sigurt dhe përditësimi lyp vetëm një minutë.
+
+
+# Displayed to users with an obsolete version of Firefox
+;Looks like you’re using an older version of Firefox. Update to stay fast and safe.
+Duket se po përdorni një version të vjetër të Firefox-it. Përditësojeni që të jini i shpejtë dhe i parrezikuar.
+
+
+;Update Firefox Now
+Përditësojeni Firefox-in Tani
+
+

@@ -1,0 +1,99 @@
+## NOTE: test server at http://start.allizom.org/en-US/
+## NOTE: to properly test this page you need User Agent Switcher add-on
+
+
+;Mozilla Firefox Start Page
+Mozilla Firefox スタートページ
+
+
+;Firefox Start
+Firefox Start {ok}
+
+
+;Firefox Logo
+Firefox ロゴ
+
+
+;Google Search
+Google 検索
+
+
+;Advanced search
+検索オプション
+
+
+;Preferences
+検索設定
+
+
+;You're not on the latest version of Firefox.
+お使いの Firefox は最新版ではありません。
+
+
+;<a href="{0}">Upgrade today</a> to get the best of the Web!
+Web を最大限活用するため <a href="{0}">今すぐアップグレードしましょう</a>！
+
+
+;About Mozilla
+Mozilla について
+
+
+;Firefox Support
+Firefox サポート
+
+
+;Important
+重要
+
+
+;Your Firefox is out of date!
+お使いの Firefox は古いバージョンです！
+
+
+;Please download the latest version to continue.
+続けるには最新版をダウンロードしてください。
+
+
+;Your browser is out of date.
+お使いのブラウザは古いバージョンです。
+
+
+;Upgrade today for the latest in speed and security.
+より速く安全な最新版に今すぐアップグレードしましょう。
+
+
+;Free Download
+無料ダウンロード
+
+
+;No thanks, I'll risk it.
+いいえ、危険性を理解した上で使い続けます。
+
+
+;A message about your browser
+お使いになっているブラウザに関するお知らせです。
+
+
+# Displayed to users with Firefox 3
+;You're using Firefox 3, which was amazing in 2010, but why not try a brand new version of Firefox instead?
+現在 Firefox 3 をお使いになっていますが、より新しいバージョンの Firefox をご利用になれます。
+
+
+# Displayed to users with Firefox 4
+;You're using Firefox 4, which was amazing in 2011, but why not try a brand new version of Firefox instead?
+現在 Firefox 4 をお使いになっていますが、より新しいバージョンの Firefox をご利用になれます。
+
+
+;It's better, more secure and only takes a minute to update.
+より使いやすく、より安全にご利用いただけます。更新にかかる時間も 1 分以内です。
+
+
+# Displayed to users with an obsolete version of Firefox
+;Looks like you’re using an older version of Firefox. Update to stay fast and safe.
+現在お使いになっているものより、新しいバージョンの Firefox がご利用になれます。高速性と安全性を保つためにも更新してください。
+
+
+;Update Firefox Now
+今すぐ Firefox を更新しましょう。
+
+

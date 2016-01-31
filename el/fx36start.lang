@@ -1,0 +1,99 @@
+## NOTE: test server at http://start.allizom.org/en-US/
+## NOTE: to properly test this page you need User Agent Switcher add-on
+
+
+;Mozilla Firefox Start Page
+Αρχική σελίδα του Mozilla Firefox
+
+
+;Firefox Start
+Αρχική σελίδα Firefox
+
+
+;Firefox Logo
+Λογότυπο Firefox
+
+
+;Google Search
+Αναζήτηση Google
+
+
+;Advanced search
+Προχωρημένη αναζήτηση
+
+
+;Preferences
+Προτιμήσεις
+
+
+;You're not on the latest version of Firefox.
+Δεν έχετε την πιο πρόσφατη έκδοση του Firefox.
+
+
+;<a href="{0}">Upgrade today</a> to get the best of the Web!
+<a href="{0}">Αναβαθμίστε τώρα</a> για να απολαμβάνετε καλύτερα τον ιστό!
+
+
+;About Mozilla
+Περί Mozilla
+
+
+;Firefox Support
+Υποστήριξη Firefox
+
+
+;Important
+Σημαντικό
+
+
+;Your Firefox is out of date!
+Έχετε μια παλιά έκδοση του Firefox!
+
+
+;Please download the latest version to continue.
+Σας παρακαλούμε κάντε λήψη της πιο πρόσφατης έκδοσης για να συνεχίσετε.
+
+
+;Your browser is out of date.
+Έχετε μια παλιά έκδοση περιηγητή.
+
+
+;Upgrade today for the latest in speed and security.
+Κάντε αναβάθμιση τώρα για τις πιο πρόσφατες βελτιώσεις σε ταχύτητα και ασφάλεια.
+
+
+;Free Download
+Δωρεάν λήψη
+
+
+;No thanks, I'll risk it.
+Όχι ευχαριστώ, θα το ρισκάρω.
+
+
+;A message about your browser
+Ένα μήνυμα για τον περιηγητή σας
+
+
+# Displayed to users with Firefox 3
+;You're using Firefox 3, which was amazing in 2010, but why not try a brand new version of Firefox instead?
+Χρησιμοποιείτε τον Firefox 3, που ήταν εκπληκτικός το 2010, αλλά τι θα λέγατε να δοκιμάσετε μια πιο νέα έκδοση του Firefox;
+
+
+# Displayed to users with Firefox 4
+;You're using Firefox 4, which was amazing in 2011, but why not try a brand new version of Firefox instead?
+Χρησιμοποιείτε τον Firefox 4, που ήταν εκπληκτικός το 2011, αλλά τι θα λέγατε να δοκιμάσετε μια πιο νέα έκδοση του Firefox;
+
+
+;It's better, more secure and only takes a minute to update.
+Είναι καλύτερος, πιο ασφαλής, και χρειάζεται μόνο ένα λεπτό για να τον αναβαθμίσετε.
+
+
+# Displayed to users with an obsolete version of Firefox
+;Looks like you’re using an older version of Firefox. Update to stay fast and safe.
+Χρησιμοποιείτε μια παλιότερη έκδοση του Firefox. Ενημερώστε τον για να παραμείνει ασφαλής και γρήγορος.
+
+
+;Update Firefox Now
+Ενημερώστε τον Firefox τώρα
+
+

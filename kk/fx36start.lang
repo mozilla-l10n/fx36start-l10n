@@ -1,0 +1,99 @@
+## NOTE: test server at http://start.allizom.org/en-US/
+## NOTE: to properly test this page you need User Agent Switcher add-on
+
+
+;Mozilla Firefox Start Page
+Mozilla Firefox үй парағы
+
+
+;Firefox Start
+Firefox басты парағы
+
+
+;Firefox Logo
+Firefox логосы
+
+
+;Google Search
+Google іздеуі
+
+
+;Advanced search
+Кеңейтілген іздеу
+
+
+;Preferences
+Баптаулар
+
+
+;You're not on the latest version of Firefox.
+Сіздегі Firefox нұсқасы ең соңғы емес.
+
+
+;<a href="{0}">Upgrade today</a> to get the best of the Web!
+Интернеттің жақсысын алу үшін браузеріңізді <a href="{0}">бүгін жаңартыңыз</a>!
+
+
+;About Mozilla
+Mozilla туралы
+
+
+;Firefox Support
+Firefox қолдауы
+
+
+;Important
+Маңызды
+
+
+;Your Firefox is out of date!
+Сіздің Firefox ескірген!
+
+
+;Please download the latest version to continue.
+Жалғастыру үшін соңғы нұсқасын жүктеп алыңыз.
+
+
+;Your browser is out of date.
+Сіздің браузеріңіз ескірген.
+
+
+;Upgrade today for the latest in speed and security.
+Жылдамдығы мен қауіпсіздігі үшін браузерді соңғы нұсқасына дейін жаңартыңыз.
+
+
+;Free Download
+Тегін жүктеп алу
+
+
+;No thanks, I'll risk it.
+Жоқ, рахмет, тәуекел деп жалғастырамын.
+
+
+;A message about your browser
+Браузеріңіз туралы хабарлама
+
+
+# Displayed to users with Firefox 3
+;You're using Firefox 3, which was amazing in 2010, but why not try a brand new version of Firefox instead?
+Сіз Firefox 3 қолданудасыз, ол 2010 жылы тамаша болған, бірақ, енді Firefox-тың жаңа нұсқасын неге қолданбасқа?
+
+
+# Displayed to users with Firefox 4
+;You're using Firefox 4, which was amazing in 2011, but why not try a brand new version of Firefox instead?
+Сіз Firefox 4 қолданудасыз, ол 2011 жылы тамаша болған, бірақ, енді Firefox-тың жаңа нұсқасын неге қолданбасқа?
+
+
+;It's better, more secure and only takes a minute to update.
+Ол жақсырақ, қауіпсіздігі жоғарылау, және оған жаңарту бірнеше минутты ғана алады.
+
+
+# Displayed to users with an obsolete version of Firefox
+;Looks like you’re using an older version of Firefox. Update to stay fast and safe.
+Сіз Firefox-тың ескілеу нұсқасын қолданатын сияқтысыз. Жылдам әрі қауіпсіз болу үшін оны жаңартыңыз.
+
+
+;Update Firefox Now
+Firefox-ты қазір жаңарту
+
+

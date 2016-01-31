@@ -1,0 +1,99 @@
+## NOTE: test server at http://start.allizom.org/en-US/
+## NOTE: to properly test this page you need User Agent Switcher add-on
+
+
+;Mozilla Firefox Start Page
+Mozilla Firefox' startside
+
+
+;Firefox Start
+Firefox Start {ok}
+
+
+;Firefox Logo
+Firefox logo
+
+
+;Google Search
+Google-søgning
+
+
+;Advanced search
+Avanceret søgning
+
+
+;Preferences
+Indstillinger
+
+
+;You're not on the latest version of Firefox.
+Du bruger ikke den seneste version af Firefox.
+
+
+;<a href="{0}">Upgrade today</a> to get the best of the Web!
+<a href="{0}">Opdater i dag</a> for at få det bedste ud af nettet!
+
+
+;About Mozilla
+Om Mozilla
+
+
+;Firefox Support
+Firefox support
+
+
+;Important
+Vigtigt
+
+
+;Your Firefox is out of date!
+Din Firefox er ikke opdateret!
+
+
+;Please download the latest version to continue.
+Hent den seneste version for at fortsætte.
+
+
+;Your browser is out of date.
+Din browser er ikke opdateret.
+
+
+;Upgrade today for the latest in speed and security.
+Opdater i dag for at få den nyeste hastighed og sikkerhed.
+
+
+;Free Download
+Gratis download
+
+
+;No thanks, I'll risk it.
+Nej tak, jeg tager risikoen.
+
+
+;A message about your browser
+En meddelelse om din browser
+
+
+# Displayed to users with Firefox 3
+;You're using Firefox 3, which was amazing in 2010, but why not try a brand new version of Firefox instead?
+Du bruger Firefox 3, der var fantastisk i 2010, men hvorfor ikke prøve en spritny version af Firefox i stedet?
+
+
+# Displayed to users with Firefox 4
+;You're using Firefox 4, which was amazing in 2011, but why not try a brand new version of Firefox instead?
+Du bruger Firefox 4, der var fantastisk i 2011, men hvorfor ikke prøve en spritny version af Firefox i stedet?
+
+
+;It's better, more secure and only takes a minute to update.
+Den er bedre, mere sikker og det tager kun et minut at opdatere.
+
+
+# Displayed to users with an obsolete version of Firefox
+;Looks like you’re using an older version of Firefox. Update to stay fast and safe.
+Det ser ud som om, du benytter en ældre version af Firefox. Opdater for at forblive hurtig og sikker.
+
+
+;Update Firefox Now
+Opdater Firefox nu
+
+

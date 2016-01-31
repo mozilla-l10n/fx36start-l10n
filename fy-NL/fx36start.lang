@@ -1,0 +1,99 @@
+## NOTE: test server at http://start.allizom.org/en-US/
+## NOTE: to properly test this page you need User Agent Switcher add-on
+
+
+;Mozilla Firefox Start Page
+Mozilla Firefox begjinside
+
+
+;Firefox Start
+Firefox Start {ok}
+
+
+;Firefox Logo
+Firefox Logo {ok}
+
+
+;Google Search
+Google Sykje
+
+
+;Advanced search
+Avansearre sykje
+
+
+;Preferences
+Opsjes
+
+
+;You're not on the latest version of Firefox.
+Jo hawwe net de lêste ferzje fan Firefox.
+
+
+;<a href="{0}">Upgrade today</a> to get the best of the Web!
+<a href="{0}">Fernij hjoed</a> om it bêste fan it ynternet te krijen!
+
+
+;About Mozilla
+Oer Mozilla
+
+
+;Firefox Support
+Firefox Stipe
+
+
+;Important
+Wichtich
+
+
+;Your Firefox is out of date!
+Jo Firefox is net by de tiid!
+
+
+;Please download the latest version to continue.
+Download de lêste ferzje om troch te gean.
+
+
+;Your browser is out of date.
+Jo browser is net by de tiid.
+
+
+;Upgrade today for the latest in speed and security.
+Fernij hjoed foar it lêste yn faasje en feilichheid.
+
+
+;Free Download
+Fergese downlaad
+
+
+;No thanks, I'll risk it.
+Nee tankewol, ik nim it risiko.
+
+
+;A message about your browser
+In berjocht oer jo browser
+
+
+# Displayed to users with Firefox 3
+;You're using Firefox 3, which was amazing in 2010, but why not try a brand new version of Firefox instead?
+Jo brûke Firefox 3, dy't bjusterbaarlik wie yn 2010, mar wêrom net in folslein nije ferzje fan Firefox brûke?
+
+
+# Displayed to users with Firefox 4
+;You're using Firefox 4, which was amazing in 2011, but why not try a brand new version of Firefox instead?
+Jo brûke Firefox 4, dy't bjusterbaarlik wie yn 2011, mar wêrom net in folslein nije ferzje fan Firefox brûke?
+
+
+;It's better, more secure and only takes a minute to update.
+It is better, feiliger en it fernijen nimt mar in pear minuten.
+
+
+# Displayed to users with an obsolete version of Firefox
+;Looks like you’re using an older version of Firefox. Update to stay fast and safe.
+It liket der op dat jo in âldere ferzje fan Firefox brûke. Fernij om feilich en fluch te bliuwen.
+
+
+;Update Firefox Now
+Fernij Firefox no
+
+

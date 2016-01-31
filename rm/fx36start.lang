@@ -1,0 +1,99 @@
+## NOTE: test server at http://start.allizom.org/en-US/
+## NOTE: to properly test this page you need User Agent Switcher add-on
+
+
+;Mozilla Firefox Start Page
+Pagina da partenza da Mozilla Firefox
+
+
+;Firefox Start
+Firefox Start {ok}
+
+
+;Firefox Logo
+Logo da Firefox
+
+
+;Google Search
+Tschertgar cun Google
+
+
+;Advanced search
+Tschertga avanzada
+
+
+;Preferences
+Preferenzas
+
+
+;You're not on the latest version of Firefox.
+Ti n'utiliseschas betg l'ultima versiun da Firefox.
+
+
+;<a href="{0}">Upgrade today</a> to get the best of the Web!
+<a href="{0}">Actualisescha ussa</a> per retschaiver il meglier da l'internet!
+
+
+;About Mozilla
+Davart Mozilla
+
+
+;Firefox Support
+Agid Firefox
+
+
+;Important
+Impurtant
+
+
+;Your Firefox is out of date!
+Tes Firefox è antiquà!
+
+
+;Please download the latest version to continue.
+Telechargia per plaschair la versiun la pli nova per cuntinuar.
+
+
+;Your browser is out of date.
+Tes navigatur è antiquà.
+
+
+;Upgrade today for the latest in speed and security.
+Actualisescha ussa per dapli prestaziun e segirezza.
+
+
+;Free Download
+Telechargiada gratuita
+
+
+;No thanks, I'll risk it.
+Na grazia, jau vi ristgar da navigar cun ina versiun veglia.
+
+
+;A message about your browser
+In messadi davart tes navigatur
+
+
+# Displayed to users with Firefox 3
+;You're using Firefox 3, which was amazing in 2010, but why not try a brand new version of Firefox instead?
+Ti utiliseschas Firefox 3 che era grondius igl onn 2010, ma pertge betg era ussa utilisar la pli nova versiun da Firefox?
+
+
+# Displayed to users with Firefox 4
+;You're using Firefox 4, which was amazing in 2011, but why not try a brand new version of Firefox instead?
+Ti utiliseschas Firefox 4 che era grondius igl onn 2011, ma pertge betg era ussa utilisar la pli nova versiun da Firefox?
+
+
+;It's better, more secure and only takes a minute to update.
+El è meglier, pli segir ed i dovra be in pèr minutas per l'actualisar.
+
+
+# Displayed to users with an obsolete version of Firefox
+;Looks like you’re using an older version of Firefox. Update to stay fast and safe.
+I para che ti utiliseschias ina versiun veglia da Firefox. Actualisescha per restar spert e segir.
+
+
+;Update Firefox Now
+Ussa actualisar Firefox
+
+

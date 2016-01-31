@@ -1,0 +1,99 @@
+## NOTE: test server at http://start.allizom.org/en-US/
+## NOTE: to properly test this page you need User Agent Switcher add-on
+
+
+;Mozilla Firefox Start Page
+Začetna stran Mozilla Firefoxa
+
+
+;Firefox Start
+Firefox Start {ok}
+
+
+;Firefox Logo
+Firefox Logo {ok}
+
+
+;Google Search
+Iskanje Google
+
+
+;Advanced search
+Napredno iskanje
+
+
+;Preferences
+Nastavitve
+
+
+;You're not on the latest version of Firefox.
+Uporabljate različico Firefoxa, ki je zastarela.
+
+
+;<a href="{0}">Upgrade today</a> to get the best of the Web!
+<a href="{0}">Posodobite še danes</a>, da vam bo splet polno na razpolago!
+
+
+;About Mozilla
+Kaj je Mozilla?
+
+
+;Firefox Support
+Podpora za Firefox
+
+
+;Important
+Važno
+
+
+;Your Firefox is out of date!
+Uporabljate zastarel Firefox!
+
+
+;Please download the latest version to continue.
+Prenesite si prosim najprej najnovejšo različico.
+
+
+;Your browser is out of date.
+Vaš brskalnik je zastarel.
+
+
+;Upgrade today for the latest in speed and security.
+Posodobite še danes na najnovejše, kar se hitrosti in varnosti tiče.
+
+
+;Free Download
+Brezplačen prenos
+
+
+;No thanks, I'll risk it.
+Ne, hvala, bom tvegal.
+
+
+;A message about your browser
+Sporočilo o vašem brskalniku
+
+
+# Displayed to users with Firefox 3
+;You're using Firefox 3, which was amazing in 2010, but why not try a brand new version of Firefox instead?
+Uporabljate Firefox 3, ki je bil odličen leta 2010. A ne bi raje poskusili povsem novega Firefoxa?
+
+
+# Displayed to users with Firefox 4
+;You're using Firefox 4, which was amazing in 2011, but why not try a brand new version of Firefox instead?
+Uporabljate Firefox 4, ki je bil odličen leta 2011. A ne bi raje poskusili povsem novega Firefoxa?
+
+
+;It's better, more secure and only takes a minute to update.
+Je boljši in bolj varen, posodobitev pa vam bo vzela samo minuto.
+
+
+# Displayed to users with an obsolete version of Firefox
+;Looks like you’re using an older version of Firefox. Update to stay fast and safe.
+Uporabljate starejšo različico Firefoxa. Posodobite ga za več hitrosti in varnosti.
+
+
+;Update Firefox Now
+Posodobi Firefox zdaj
+
+

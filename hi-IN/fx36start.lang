@@ -1,0 +1,99 @@
+## NOTE: test server at http://start.allizom.org/en-US/
+## NOTE: to properly test this page you need User Agent Switcher add-on
+
+
+;Mozilla Firefox Start Page
+मोज़िला फ़ायरफ़ॉक्स श्रीगणेश
+
+
+;Firefox Start
+फ़ायरफ़ॉक्स श्रीगणेश
+
+
+;Firefox Logo
+फ़ायरफ़ॉक्स लोगो
+
+
+;Google Search
+गूगल खोज
+
+
+;Advanced search
+उन्नत खोज
+
+
+;Preferences
+वरीयताएँ
+
+
+;You're not on the latest version of Firefox.
+आप फ़ायरफ़ॉक्स के नवीनतम संस्करण के साथ नहीं है.
+
+
+;<a href="{0}">Upgrade today</a> to get the best of the Web!
+<a href="{0}">आज ही अपग्रेड करें</a> वेब का बेहतरीन आनंद लेने के लिए!
+
+
+;About Mozilla
+मोज़िला परिचय
+
+
+;Firefox Support
+फ़ायरफ़ॉक्स समर्थन
+
+
+;Important
+महत्वपूर्ण
+
+
+;Your Firefox is out of date!
+आपका फ़ायरफ़ॉक्स पुराना हो गया है!
+
+
+;Please download the latest version to continue.
+जारी रखने के लिए नवीनतम संस्करण डाउनलोड करें.
+
+
+;Your browser is out of date.
+आपका ब्राउज़र पुराना हो गया है.
+
+
+;Upgrade today for the latest in speed and security.
+तेजी और सुरक्षा दोनों रूप में नवीनतम हासिल करने के लिए आज ही उन्नत करें.
+
+
+;Free Download
+निःशुल्क डाउनलोड
+
+
+;No thanks, I'll risk it.
+नहीं शुक्रिया, मैं जोखिम उठाऊँगा.
+
+
+;A message about your browser
+A message about your browser
+
+
+# Displayed to users with Firefox 3
+;You're using Firefox 3, which was amazing in 2010, but why not try a brand new version of Firefox instead?
+You're using Firefox 3, which was amazing in 2010, but why not try a brand new version of Firefox instead?
+
+
+# Displayed to users with Firefox 4
+;You're using Firefox 4, which was amazing in 2011, but why not try a brand new version of Firefox instead?
+You're using Firefox 4, which was amazing in 2011, but why not try a brand new version of Firefox instead?
+
+
+;It's better, more secure and only takes a minute to update.
+It's better, more secure and only takes a minute to update.
+
+
+# Displayed to users with an obsolete version of Firefox
+;Looks like you’re using an older version of Firefox. Update to stay fast and safe.
+Looks like you’re using an older version of Firefox. Update to stay fast and safe.
+
+
+;Update Firefox Now
+Update Firefox Now
+
+

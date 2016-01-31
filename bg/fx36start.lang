@@ -1,0 +1,99 @@
+## NOTE: test server at http://start.allizom.org/en-US/
+## NOTE: to properly test this page you need User Agent Switcher add-on
+
+
+;Mozilla Firefox Start Page
+Начална страница на Mozilla Firefox
+
+
+;Firefox Start
+Firefox Начало
+
+
+;Firefox Logo
+Firefox Лого
+
+
+;Google Search
+Търсене в Google
+
+
+;Advanced search
+Разширено търсене
+
+
+;Preferences
+Предпочитания
+
+
+;You're not on the latest version of Firefox.
+Не сте с последната версия на Firefox.
+
+
+;<a href="{0}">Upgrade today</a> to get the best of the Web!
+<a href="{0}">Обновете днес</a> и вземете най-доброто от Мрежата!
+
+
+;About Mozilla
+За Mozilla
+
+
+;Firefox Support
+Firefox Поддръжка
+
+
+;Important
+Важно
+
+
+;Your Firefox is out of date!
+Вашата версия на Firefox е излязла от употреба!
+
+
+;Please download the latest version to continue.
+Моля, свалете последната версия, за да продължите.
+
+
+;Your browser is out of date.
+Използвате остаряла версия на вашия браузър!
+
+
+;Upgrade today for the latest in speed and security.
+Обновете днес за най-новото откъм бързина и сигурност.
+
+
+;Free Download
+Свободно изтегляне
+
+
+;No thanks, I'll risk it.
+Не, благодаря. Ще рискувам.
+
+
+;A message about your browser
+Съобщение за Вашия браузър
+
+
+# Displayed to users with Firefox 3
+;You're using Firefox 3, which was amazing in 2010, but why not try a brand new version of Firefox instead?
+Използвате Firefox 3, който беше невероятен през 2010, но защо вместо него не опитате съвсем новия Firefox?
+
+
+# Displayed to users with Firefox 4
+;You're using Firefox 4, which was amazing in 2011, but why not try a brand new version of Firefox instead?
+използвате Firefox 4, който беше невероятен през 2011, но защо вместо него не опитате съвсем новия Firefox?
+
+
+;It's better, more secure and only takes a minute to update.
+По-добър е, по-защитен и отнема само минута за обновяване.
+
+
+# Displayed to users with an obsolete version of Firefox
+;Looks like you’re using an older version of Firefox. Update to stay fast and safe.
+изглежда използвате стара версия на Firefox. Обновете, за да работите по-бързо и безопасно.
+
+
+;Update Firefox Now
+Обновете Firefox сега
+
+

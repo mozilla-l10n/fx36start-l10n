@@ -1,0 +1,99 @@
+## NOTE: test server at http://start.allizom.org/en-US/
+## NOTE: to properly test this page you need User Agent Switcher add-on
+
+
+;Mozilla Firefox Start Page
+Mozilla Firefox 시작 페이지
+
+
+;Firefox Start
+Firefox 시작하기
+
+
+;Firefox Logo
+Firefox 로고
+
+
+;Google Search
+Google 검색
+
+
+;Advanced search
+고급 검색
+
+
+;Preferences
+환경 설정
+
+
+;You're not on the latest version of Firefox.
+Firefox 최신 버전을 사용하고 있지 않습니다.
+
+
+;<a href="{0}">Upgrade today</a> to get the best of the Web!
+웹을 최고로 즐기기 위해 오늘 <a href="{0}">바로 업그레이드</a>해 주십시오!
+
+
+;About Mozilla
+Mozilla 소개
+
+
+;Firefox Support
+Firefox 고객지원
+
+
+;Important
+중요
+
+
+;Your Firefox is out of date!
+Firefox 업그레이드가 필요합니다!
+
+
+;Please download the latest version to continue.
+최신 버전을 다운로드하려면 계속하십시오.
+
+
+;Your browser is out of date.
+웹 브라우저 업그레이드가 필요합니다.
+
+
+;Upgrade today for the latest in speed and security.
+보안 및 속도 향상을 위해 지금 업그레이드하십시오.
+
+
+;Free Download
+무료 다운로드
+
+
+;No thanks, I'll risk it.
+계속 사용하기
+
+
+;A message about your browser
+중요 공지
+
+
+# Displayed to users with Firefox 3
+;You're using Firefox 3, which was amazing in 2010, but why not try a brand new version of Firefox instead?
+Firefo 3 버전 대신 완전히 새로운 최신 버전으로 바꾸시면 어떨까요?
+
+
+# Displayed to users with Firefox 4
+;You're using Firefox 4, which was amazing in 2011, but why not try a brand new version of Firefox instead?
+Firefox 4버전은 대신 완전히 새로운 최신 버전으로 바꾸시면 어떨까요?
+
+
+;It's better, more secure and only takes a minute to update.
+보다 안전한 신규 버전으로 바로 업데이트하세요.
+
+
+# Displayed to users with an obsolete version of Firefox
+;Looks like you’re using an older version of Firefox. Update to stay fast and safe.
+Firefox 예전 버전을 사용하고 계십니다. 더 빠르고 안전한 최신 버전으로 업데이트하세요.
+
+
+;Update Firefox Now
+Firefox 업데이트
+
+

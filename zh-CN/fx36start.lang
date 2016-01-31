@@ -1,0 +1,99 @@
+## NOTE: test server at http://start.allizom.org/en-US/
+## NOTE: to properly test this page you need User Agent Switcher add-on
+
+
+;Mozilla Firefox Start Page
+Mozilla Firefox 起始页
+
+
+;Firefox Start
+Firefox 起始
+
+
+;Firefox Logo
+Firefox 徽标
+
+
+;Google Search
+谷歌搜索
+
+
+;Advanced search
+高级搜索
+
+
+;Preferences
+首选项
+
+
+;You're not on the latest version of Firefox.
+您并未使用 Firefox 的最新版本。
+
+
+;<a href="{0}">Upgrade today</a> to get the best of the Web!
+<a href="{0}">今天就升级</a>，获得最佳的网络体验！
+
+
+;About Mozilla
+关于 Mozilla
+
+
+;Firefox Support
+Firefox 技术支持
+
+
+;Important
+重要
+
+
+;Your Firefox is out of date!
+您的 Firefox 版本已经过时！
+
+
+;Please download the latest version to continue.
+请下载最新版本继续使用。
+
+
+;Your browser is out of date.
+您的浏览器已经过时。
+
+
+;Upgrade today for the latest in speed and security.
+今天就升级到速度和安全性更好的最新版本。
+
+
+;Free Download
+免费下载
+
+
+;No thanks, I'll risk it.
+不，谢谢，我愿意冒这个险。
+
+
+;A message about your browser
+有关您的浏览器的提示信息
+
+
+# Displayed to users with Firefox 3
+;You're using Firefox 3, which was amazing in 2010, but why not try a brand new version of Firefox instead?
+您还在使用 Firefox 3，它在2010年还非常优秀。但为什么不尝试现在全新的 Firefox 版本呢？
+
+
+# Displayed to users with Firefox 4
+;You're using Firefox 4, which was amazing in 2011, but why not try a brand new version of Firefox instead?
+您还在使用 Firefox 4，它在2011年还非常优秀。但为什么不尝试现在全新的 Firefox 版本呢？
+
+
+;It's better, more secure and only takes a minute to update.
+它更棒、更安全，只需几分钟就能完成更新。
+
+
+# Displayed to users with an obsolete version of Firefox
+;Looks like you’re using an older version of Firefox. Update to stay fast and safe.
+看起来您还在使用旧版本的 Firefox 。更新到新版本，体验更快的速度、更好的安全性。
+
+
+;Update Firefox Now
+现在更新 Firefox
+
+

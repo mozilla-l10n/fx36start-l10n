@@ -1,0 +1,99 @@
+## NOTE: test server at http://start.allizom.org/en-US/
+## NOTE: to properly test this page you need User Agent Switcher add-on
+
+
+;Mozilla Firefox Start Page
+Startsida för Mozilla Firefox
+
+
+;Firefox Start
+Firefox startsida
+
+
+;Firefox Logo
+Firefox logotyp
+
+
+;Google Search
+Sök på Google
+
+
+;Advanced search
+Avancerad sökning
+
+
+;Preferences
+Inställningar
+
+
+;You're not on the latest version of Firefox.
+Du använder inte den senaste versionen av Firefox.
+
+
+;<a href="{0}">Upgrade today</a> to get the best of the Web!
+<a href="{0}">Uppgradera idag</a> för att få ut det mesta av webben!
+
+
+;About Mozilla
+Om Mozilla
+
+
+;Firefox Support
+Hjälp om Firefox
+
+
+;Important
+Viktigt
+
+
+;Your Firefox is out of date!
+Din Firefox är föråldrad!
+
+
+;Please download the latest version to continue.
+Hämta den senaste versionen för att fortsätta.
+
+
+;Your browser is out of date.
+Din webbläsare är föråldrad.
+
+
+;Upgrade today for the latest in speed and security.
+Uppgradera idag och få det senaste i hastighet och säkerhet.
+
+
+;Free Download
+Gratis hämtning
+
+
+;No thanks, I'll risk it.
+Nej tack, jag tar risken.
+
+
+;A message about your browser
+Ett meddelande om din webbläsare
+
+
+# Displayed to users with Firefox 3
+;You're using Firefox 3, which was amazing in 2010, but why not try a brand new version of Firefox instead?
+Du använder Firefox 3, som visserligen var fantastisk 2010, men varför inte istället pröva på en helt ny version av Firefox?
+
+
+# Displayed to users with Firefox 4
+;You're using Firefox 4, which was amazing in 2011, but why not try a brand new version of Firefox instead?
+Du använder Firefox 4, som visserligen var fantastisk 2011, men varför inte istället pröva på en helt ny version av Firefox?
+
+
+;It's better, more secure and only takes a minute to update.
+Den är bättre, säkrare och tar bara någon minut att uppdatera.
+
+
+# Displayed to users with an obsolete version of Firefox
+;Looks like you’re using an older version of Firefox. Update to stay fast and safe.
+Det verkar som om du använder en äldre version av Firefox. Uppdatera för att fortsätta vara snabb och säker på nätet.
+
+
+;Update Firefox Now
+Uppdatera Firefox nu
+
+

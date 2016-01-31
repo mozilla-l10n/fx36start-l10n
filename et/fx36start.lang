@@ -1,0 +1,99 @@
+## NOTE: test server at http://start.allizom.org/en-US/
+## NOTE: to properly test this page you need User Agent Switcher add-on
+
+
+;Mozilla Firefox Start Page
+Mozilla Firefoxi avaleht
+
+
+;Firefox Start
+Firefox Start {ok}
+
+
+;Firefox Logo
+Firefoxi logo
+
+
+;Google Search
+Google otsing
+
+
+;Advanced search
+Täpsem otsing
+
+
+;Preferences
+Otsinguseaded
+
+
+;You're not on the latest version of Firefox.
+Sa ei kasuta uusimat Firefoxi.
+
+
+;<a href="{0}">Upgrade today</a> to get the best of the Web!
+<a href="{0}">Uuenda kohe</a> ning võta veebist parim!
+
+
+;About Mozilla
+Mozillast
+
+
+;Firefox Support
+Firefoxi abi
+
+
+;Important
+Tähtis
+
+
+;Your Firefox is out of date!
+Firefox on aegunud!
+
+
+;Please download the latest version to continue.
+Palun laadi jätkamiseks alla uusim versioon.
+
+
+;Your browser is out of date.
+Sinu veebilehitseja on aegunud.
+
+
+;Upgrade today for the latest in speed and security.
+Uuenda kohe ning lehitse veebi kiiremini ja turvalisemalt.
+
+
+;Free Download
+Tasuta allalaadimine
+
+
+;No thanks, I'll risk it.
+Tänan, ei. Ma riskeerin.
+
+
+;A message about your browser
+Teade sinu brauseri kohta
+
+
+# Displayed to users with Firefox 3
+;You're using Firefox 3, which was amazing in 2010, but why not try a brand new version of Firefox instead?
+Kasutad Firefox 3, mis oli suurepärane aastal 2010, kuid kas sa ei sooviks selle asemel Firefoxi uhiuut versiooni kasutada?
+
+
+# Displayed to users with Firefox 4
+;You're using Firefox 4, which was amazing in 2011, but why not try a brand new version of Firefox instead?
+Kasutad Firefox 4, mis oli suurepärane aastal 2011, kuid kas sa ei sooviks selle asemel Firefoxi uhiuut versiooni kasutada?
+
+
+;It's better, more secure and only takes a minute to update.
+See on parem, turvalisem ja uuendamine võtab vaid minuti.
+
+
+# Displayed to users with an obsolete version of Firefox
+;Looks like you’re using an older version of Firefox. Update to stay fast and safe.
+Paistab, et kasutad Firefoxi vanemat versiooni. Uuenda ning kasuta veebi kiiresti ja turvaliselt.
+
+
+;Update Firefox Now
+Uuenda Firefoxi kohe
+
+

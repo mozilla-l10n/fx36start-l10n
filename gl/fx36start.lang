@@ -1,0 +1,99 @@
+## NOTE: test server at http://start.allizom.org/en-US/
+## NOTE: to properly test this page you need User Agent Switcher add-on
+
+
+;Mozilla Firefox Start Page
+Páxina de Inicio de Mozilla Firefox
+
+
+;Firefox Start
+Firefox Start {ok}
+
+
+;Firefox Logo
+Logo do Firefox
+
+
+;Google Search
+Buscar en Google
+
+
+;Advanced search
+Busca avanzada
+
+
+;Preferences
+Preferencias
+
+
+;You're not on the latest version of Firefox.
+Non ten a última versión do Firefox.
+
+
+;<a href="{0}">Upgrade today</a> to get the best of the Web!
+<a href="{0}">Anóveo agora</a> para gozar mellor da Web!
+
+
+;About Mozilla
+Sobre Mozilla
+
+
+;Firefox Support
+Axuda para Firefox
+
+
+;Important
+Importante
+
+
+;Your Firefox is out of date!
+O seu Firefox está desactualizado!
+
+
+;Please download the latest version to continue.
+Descargue a última versión para continuar.
+
+
+;Your browser is out of date.
+O seu navegador está desactualizado.
+
+
+;Upgrade today for the latest in speed and security.
+Anove hoxe para obter o último en velocidade e seguranza.
+
+
+;Free Download
+Descarga de balde
+
+
+;No thanks, I'll risk it.
+Non, grazas. Arriscareime.
+
+
+;A message about your browser
+Unha mensaxe sobre o seu navegador
+
+
+# Displayed to users with Firefox 3
+;You're using Firefox 3, which was amazing in 2010, but why not try a brand new version of Firefox instead?
+Está usando Firefox 3, que era incríbel no 2010, pero porque non proba no seu lugar unha nova versión do Firefox?
+
+
+# Displayed to users with Firefox 4
+;You're using Firefox 4, which was amazing in 2011, but why not try a brand new version of Firefox instead?
+Está usando Firefox 4, que era incríbel no 2011, pero porque non proba no seu lugar unha nova versión do Firefox?
+
+
+;It's better, more secure and only takes a minute to update.
+Este é mellor, máis seguro e só lle leva un minuto actualizar.
+
+
+# Displayed to users with an obsolete version of Firefox
+;Looks like you’re using an older version of Firefox. Update to stay fast and safe.
+Semella que está usando unha versión antiga do Firefox. Actualíceo para manterse rápido e seguro.
+
+
+;Update Firefox Now
+Actualice Firefox agora
+
+

@@ -1,0 +1,99 @@
+## NOTE: test server at http://start.allizom.org/en-US/
+## NOTE: to properly test this page you need User Agent Switcher add-on
+
+
+;Mozilla Firefox Start Page
+An duilleag mhòr air Mozilla Firefox
+
+
+;Firefox Start
+Toiseach Firefox
+
+
+;Firefox Logo
+Suaicheantas Firefox
+
+
+;Google Search
+Lorg le Google
+
+
+;Advanced search
+Lorg adhartach
+
+
+;Preferences
+Roghainnean
+
+
+;You're not on the latest version of Firefox.
+Chan eil thu a' cleachdadh an tionndadh as ùire de Firefox.
+
+
+;<a href="{0}">Upgrade today</a> to get the best of the Web!
+<a href="{0}">Nach ùraich thu an-diugh</a> ach an chuir thu an lìon gu làn-fheum?
+
+
+;About Mozilla
+Mu dhèidhinn Mozilla
+
+
+;Firefox Support
+Taic le Firefox
+
+
+;Important
+Cudromach
+
+
+;Your Firefox is out of date!
+Tha am Firefox agad ro aosta!
+
+
+;Please download the latest version to continue.
+Luchdaich a-nuas an tionndadh as ùire gus leantainn air adhart.
+
+
+;Your browser is out of date.
+Tha am brabhsair agad ro aosta.
+
+
+;Upgrade today for the latest in speed and security.
+Nach ùraich thu e an-diugh fhèin ach am faigh thu na goireasan astair is tèarainteachd as ùire.
+
+
+;Free Download
+Luchdadh a-nuas an-asgaidh
+
+
+;No thanks, I'll risk it.
+Cha chreid mi gum faigh mi e an-dràsta, tuigidh mi an cunnart.
+
+
+;A message about your browser
+Teachdaireachd mun bhrabhsair agad
+
+
+# Displayed to users with Firefox 3
+;You're using Firefox 3, which was amazing in 2010, but why not try a brand new version of Firefox instead?
+Tha thu a' cleachdadh Firefox 3 agus bha sin gasta ann an 2010 ach carson nach fheuch thu tionndadh nas ùire dheth?
+
+
+# Displayed to users with Firefox 4
+;You're using Firefox 4, which was amazing in 2011, but why not try a brand new version of Firefox instead?
+Tha thu a' cleachdadh Firefox 4 agus bha sin gasta ann an 2011 ach carson nach fheuch thu tionndadh nas ùire dheth?
+
+
+;It's better, more secure and only takes a minute to update.
+Tha e nas fhearr, nas tèarainte 's cha doir e ach mionaid 'ga àrdachadh.
+
+
+# Displayed to users with an obsolete version of Firefox
+;Looks like you’re using an older version of Firefox. Update to stay fast and safe.
+Tha coltas gu bheil thu a' cleachdadh tionndadh nas sine de Firefox. Feuch is àrdaich e air sgàth adhbharan tèarainteachd.
+
+
+;Update Firefox Now
+Àrdaich Firefox an-dràsta
+
+

@@ -1,0 +1,99 @@
+## NOTE: test server at http://start.allizom.org/en-US/
+## NOTE: to properly test this page you need User Agent Switcher add-on
+
+
+;Mozilla Firefox Start Page
+Ĉefa paĝo de Mozilla Firefox
+
+
+;Firefox Start
+Starto de Firefox
+
+
+;Firefox Logo
+Emblemo de Firefox
+
+
+;Google Search
+Serĉi per Google
+
+
+;Advanced search
+Sperta serĉado
+
+
+;Preferences
+Preferoj
+
+
+;You're not on the latest version of Firefox.
+Vi ne uzas la lastan version de Firefox.
+
+
+;<a href="{0}">Upgrade today</a> to get the best of the Web!
+<a href="{0}">Ĝisdatigu nun</a> por eltiri la plejbonon el la Teksaĵo!
+
+
+;About Mozilla
+Pri Mozilla
+
+
+;Firefox Support
+Helpo por Firefox
+
+
+;Important
+Grava
+
+
+;Your Firefox is out of date!
+Via Firefox estas malnova!
+
+
+;Please download the latest version to continue.
+Bonvolu elŝuti la lastan version por daŭrigi.
+
+
+;Your browser is out of date.
+Via retesplorilo estas malnova.
+
+
+;Upgrade today for the latest in speed and security.
+Ĝisdatigu nun por havi la lastajn sekurecajn kaj rapidecajn plibonigojn.
+
+
+;Free Download
+Elŝuti senpage
+
+
+;No thanks, I'll risk it.
+Ne, dankon.  Mi riskos.
+
+
+;A message about your browser
+Mesaĝo pri via retesplorilo
+
+
+# Displayed to users with Firefox 3
+;You're using Firefox 3, which was amazing in 2010, but why not try a brand new version of Firefox instead?
+Vi nun uzas Firefox 3, kiu estis rava en 2010, kial ne provi tute novan version de Firefox anstataŭ?
+
+
+# Displayed to users with Firefox 4
+;You're using Firefox 4, which was amazing in 2011, but why not try a brand new version of Firefox instead?
+Vi nun uzas Firefox 4, kiu estis rava en 2011, kial ne provi tute novan version de Firefox anstataŭ?
+
+
+;It's better, more secure and only takes a minute to update.
+Ĝi estas pli bona, pli sekura kaj oni povas ĝisdatigi ĝin en minuto.
+
+
+# Displayed to users with an obsolete version of Firefox
+;Looks like you’re using an older version of Firefox. Update to stay fast and safe.
+Ŝajne vi uzas malnovan version de Firefox. Ĝisdatigu por plu esti rapida kaj sekura.
+
+
+;Update Firefox Now
+Ĝisdatigi Firefox nun
+
+

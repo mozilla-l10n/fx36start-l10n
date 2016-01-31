@@ -1,0 +1,99 @@
+## NOTE: test server at http://start.allizom.org/en-US/
+## NOTE: to properly test this page you need User Agent Switcher add-on
+
+
+;Mozilla Firefox Start Page
+Halaman Awal Mozilla Firefox
+
+
+;Firefox Start
+Firefox Start {ok}
+
+
+;Firefox Logo
+Logo Firefox
+
+
+;Google Search
+Google Penelusuran
+
+
+;Advanced search
+Penelusuran lanjutan
+
+
+;Preferences
+Preferensi
+
+
+;You're not on the latest version of Firefox.
+Versi Firefox Anda bukan yang terbaru.
+
+
+;<a href="{0}">Upgrade today</a> to get the best of the Web!
+<a href="{0}">Tingkatkan versinya sekarang</a> untuk mendapatkan yang terbaik dari dunia Web!
+
+
+;About Mozilla
+Tentang Mozilla
+
+
+;Firefox Support
+Layanan Dukungan Firefox
+
+
+;Important
+Penting
+
+
+;Your Firefox is out of date!
+Versi Firefox Anda sudah terlalu lawas!
+
+
+;Please download the latest version to continue.
+Mohon unduh versi terbaru untuk melanjutkan.
+
+
+;Your browser is out of date.
+Versi peramban Anda sudah terlalu lawas.
+
+
+;Upgrade today for the latest in speed and security.
+Tingkatkan versinya sekarang untuk mendapatkan yang lebih cepat dan lebih aman.
+
+
+;Free Download
+Unduh Gratis
+
+
+;No thanks, I'll risk it.
+Terima kasih, saya tanggung sendiri akibatnya.
+
+
+;A message about your browser
+Pesan tentang peramban Anda
+
+
+# Displayed to users with Firefox 3
+;You're using Firefox 3, which was amazing in 2010, but why not try a brand new version of Firefox instead?
+Anda sedang menggunakan Firefox 3, yang sangat canggih di tahun 2010. Ingin mencoba versi terbaru Firefox?
+
+
+# Displayed to users with Firefox 4
+;You're using Firefox 4, which was amazing in 2011, but why not try a brand new version of Firefox instead?
+Anda sedang menggunakan Firefox 4, yang sangat canggih di tahun 2011. Ingin mencoba versi terbaru Firefox?
+
+
+;It's better, more secure and only takes a minute to update.
+Lebih baik, lebih aman, dan hanya beberapa saat untuk memperbarui.
+
+
+# Displayed to users with an obsolete version of Firefox
+;Looks like you’re using an older version of Firefox. Update to stay fast and safe.
+Tampaknya Anda sedang menggunakan versi Firefox yang sangat lawas. Perbarui agar tetap mendapatkan kecepatan dan keamanan.
+
+
+;Update Firefox Now
+Perbarui Firefox Sekarang Juga
+
+

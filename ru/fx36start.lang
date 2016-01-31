@@ -1,0 +1,99 @@
+## NOTE: test server at http://start.allizom.org/en-US/
+## NOTE: to properly test this page you need User Agent Switcher add-on
+
+
+;Mozilla Firefox Start Page
+Страница запуска Mozilla Firefox
+
+
+;Firefox Start
+Запуск Firefox
+
+
+;Firefox Logo
+Лого Firefox
+
+
+;Google Search
+Поиск в Google
+
+
+;Advanced search
+Расширенный поиск
+
+
+;Preferences
+Настройки
+
+
+;You're not on the latest version of Firefox.
+Вы не используете последнюю версию Firefox.
+
+
+;<a href="{0}">Upgrade today</a> to get the best of the Web!
+<a href="{0}">Обновитесь сейчас</a>, чтобы использовать Интернет по полной!
+
+
+;About Mozilla
+О Mozilla
+
+
+;Firefox Support
+Поддержка Firefox
+
+
+;Important
+Важно
+
+
+;Your Firefox is out of date!
+Ваш Firefox устарел!
+
+
+;Please download the latest version to continue.
+Чтобы продолжить, пожалуйста, загрузите последнюю версию.
+
+
+;Your browser is out of date.
+Ваш браузер устарел.
+
+
+;Upgrade today for the latest in speed and security.
+Обновитесь сейчас, чтобы довести скорость и безопасность до максимума.
+
+
+;Free Download
+Загрузить бесплатно
+
+
+;No thanks, I'll risk it.
+Нет, спасибо. Я рискну.
+
+
+;A message about your browser
+Сообщение о вашем браузере
+
+
+# Displayed to users with Firefox 3
+;You're using Firefox 3, which was amazing in 2010, but why not try a brand new version of Firefox instead?
+Вы используете Firefox 3, который был удивителен в 2010, но почему бы не попробовать вместо него совершенно новую версию Firefox?
+
+
+# Displayed to users with Firefox 4
+;You're using Firefox 4, which was amazing in 2011, but why not try a brand new version of Firefox instead?
+Вы используете Firefox 4, который был удивителен в 2011, но почему бы не попробовать вместо него совершенно новую версию Firefox?
+
+
+;It's better, more secure and only takes a minute to update.
+Он стал лучше и безопаснее, а обновление займет всего минуту.
+
+
+# Displayed to users with an obsolete version of Firefox
+;Looks like you’re using an older version of Firefox. Update to stay fast and safe.
+Похоже, вы используете старую версию Firefox. Обновитесь, чтобы сделать его быстрым и безопасным.
+
+
+;Update Firefox Now
+Обновить Firefox сейчас
+
+
